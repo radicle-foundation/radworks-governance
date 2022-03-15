@@ -1,0 +1,23 @@
+# Radicle Ecosystem Growth Fund [EGF] - Start Funding
+
+If executed, this proposal will:
+
+1. `"setRadRegistrationFee(uint256)"` to `0`
+
+**How was this proposal discussed?**
+Please see discussions here:
+* Temperature Check: https://radicle.community/t/temperature-check-remove-name-registration-fee/2516
+* Discussion: https://radicle.community/t/discussion-remove-name-registration-fee/2583
+* Formal Review [v1]: https://radicle.community/t/formal-review-v1-remove-name-registration-fee/2604
+* Snapshot Poll [v1]: https://snapshot.org/#/gov.radicle.eth/proposal/0x704025e577ff7e4e202985d342c30285c4d0d320a18c34b764aa9b4dd38fd8ec
+* Formal Review [v2]: https://radicle.community/t/formal-review-v2-remove-name-registration-fee/2720
+* Snapshot Poll [v2]: https://snapshot.org/#/gov.radicle.eth/proposal/QmW64iqHQPAHRHdBV2jqG476XJChoY5Ji8FwgdszhghGaZ
+
+## Notes
+* `0x37723287Ae6F34866d82EE623401f92Ec9013154` is the Radicle Registrar contract address
+
+
+## ACTIONS ##
+```
+0x37723287Ae6F34866d82EE623401f92Ec9013154 0 "setRadRegistrationFee(uint256)" 0
+```
