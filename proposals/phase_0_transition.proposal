@@ -1,0 +1,29 @@
+# 11 - [Phase 0] Transition to the DAO
+
+If executed, this proposal will:
+
+1. Transfer 3,000,000 USDC from the Radicle Treasury to a multi-sig controlled by the Foundation Council to be used for Core Team Operational Budgets
+2. Transfer 1,900,000 RAD from the Radicle Treasury to a multi-sig controlled by the Foundation Council to be used for token allocations
+
+**How was this proposal discussed?**
+Please see discussions here:
+* Temperature Check: https://radicle.community/t/temperature-check-phase-0-transition-to-the-dao/2989
+* Discussion: https://radicle.community/t/discussion-phase-0-transition-to-the-dao/3001
+* Formal Review: https://radicle.community/t/formal-review-phase-0-transition-to-the-dao/3007
+* Snapshot Poll: https://snapshot.org/#/gov.radicle.eth/proposal/0x646e92794f8ea0abb333ed264dc8d8a3df7ceae909186f88701b3237852e61fb
+
+## Notes
+* `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
+* `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract (https://etherscan.io/token/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3).
+* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radicle Treasury address.
+* `0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB` is the Foundation Council USDC Multisig (Radicle Core Team Budgets)
+* `0xBA6D95426467a55b007345dBC6292127EbcE71C4` is the Foundation Council RAD Multisig (Radicle Vesting Contracts)
+
+
+## ACTIONS ##
+```
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB 3000000000000
+0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3 0 "transfer(address,uint256)" 0xBA6D95426467a55b007345dBC6292127EbcE71C4 1900000000000000000000000
+
+```
+
