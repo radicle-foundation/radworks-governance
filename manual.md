@@ -6,8 +6,7 @@ propose changes, community members must create a Governance Proposal, executable
 simple or complex actions and is subject to on-chain voting. Anybody with 1% of RAD delegated to their address can
 propose a Governance Proposal.
 
-_NOTE: Radicle governance only relates to its [Ethereum smart
-contracts](https://radicle.xyz/blog/integrating-with-ethereum.html)._
+_NOTE: Radicle governance only relates to its [Ethereum smart contracts](https://radicle.blog/introducing-rad.html)._
 
 > :exclamation: The Radicle governance process is meant to be owned and developed by the Radicle community, therefore
 > this process should be considered an active work in progress and is subject to change.
