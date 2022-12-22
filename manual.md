@@ -1,166 +1,139 @@
-# RadicleDAO Governance Process
+# Governance Manual
 
-Radicle’s Ethereum integration is maintained and upgraded through a community governance system in which RAD
-token-holders and their delegates debate, propose, and vote on all changes to the network’s Ethereum-based protocols. To
-propose changes, community members must create a Governance Proposal, executable code that outlines a proposed set of
-simple or complex actions and is subject to on-chain voting. Anybody with 1% of RAD delegated to their address can
-propose a Governance Proposal.
+> ❗ This document describes the current governance processes of the RadicleDAO. It is version-controlled and can only updated via off-chain approval. It’s currently maintained [here](https://github.com/ethereum-optimism/Operating-manual) on Radicle.
 
-_NOTE: Radicle governance only relates to its [Ethereum smart
-contracts](https://radicle.mirror.xyz/CgcHpSXUlPvwMVaUVVaJ7r8bIJI2BOKOytaI9-nO9oY)._
+> 📝 For more on how this document is maintained please refer to contributing.md
 
-> :exclamation: The Radicle governance process is meant to be owned and developed by the Radicle community, therefore
-> this process should be considered an active work in progress and is subject to change.
 
-## TL:DR;
+# Overview
 
-Radicle’s governance process is structured around an expectation of self-direction. Community “champions” (the
-individual(s) who created a proposal) are expected to escalate proposals from phase to phase, with guidance from
-community moderators. There are **four stages** in the governance process. To be considered an official Governance
-Proposal, a proposal has to go through all four stages.
+The RadicleDAO is governed by on-chain and off-chain governance processes. These together make up Radicle’s ******************governance system.****************** It’s on-chain governance can be referred to as the DAO’s *********governance module.*********
 
-```
-Temperature Check → Discussion → Formal Review → Governance Proposal
-```
+### On-chain
 
-1. Create a **Temperature Check** to initiate an informal discussion around a proposed idea and/or change.
-2. Use feedback from the Temperature Check to draft a proposal that meets the criteria set in this document and start a
-   **Discussion** (t/r 5 days)
-3. Submit the draft proposal for **Formal Review** by creating a [Snapshot poll](https://snapshot.org/#/gov.radicle.eth)
-   (t/r 5 days)
-4. "If passed, deploy a Governance Proposal via [Boardroom](https://boardroom.io/radicle/proposals) or
-   [Tally](https://www.tally.xyz/gov/eip155:1:0x690e775361AD66D1c4A25d89da9fCd639F5198eD). (t/r 3 days)
+The RadicleDAO’s Treasury is controlled by a tokenized governance mechanism ([Compound-Governor](https://wiki.tally.xyz/docs/compound-governor)) via the project’s native governance token ($RAD). As members of the RadicleDAO,  $RAD holders participate in the decision-making around the treasury by voting and creating on-chain governance proposals composed of executable actions. 
 
-Please refer to the rest of the document for details on how to navigate each phase.
+Currently, these actions include:
 
-## Overview of Stages
+- Treasury distributions of assets (e.g. RAD, ETH, and USDC)
+- Upgrades to the on-chain governance system (Compound Governor)
+- Changes to parameters of Treasury-governed contracts (e.g. Drips)
 
-### Phase 1: Temperature Check :fire: - Discourse
+To learn more about token governance and how the RadicleDAO’s on-chain governance system works, [see here](https://wiki.tally.xyz/docs/compound-governor).
 
-The path to creating an official proposal starts with an informal discussion in the Governance category of
-[radicle.community](http://radicle.community/) by calling for a Temperature Check. Inspired by
-[Uniswap](https://gov.uniswap.org/), a “Temperature Check” is a way to officially create a space for discussion around a
-question or proposed change with the goal of developing arguments and background for a potential proposal. The purpose
-of this phase is to get feedback on ideas and create the space for productive discourse. Anybody can create a
-Temperature Check to start a community discussion around an idea, question, or proposal.
+### Off-chain
 
-To start a **Temperature Check**:
+In addition to the on-chain governance system, the RadicleDAO manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote.
 
-- Create a topic and label it as follows: “Temperature Check :fire: - Your Topic of Discussion Here”.
-- Ask a **general, non-biased question about a potential change, improvement, or action** (i.e. Should swapping on the Balancer LBP be unpaused?).
-- Add any additional information to contextualize the question for the greater community.
-- Collect feedback and engage in discussion for 3-5 days.
+See Proposal Process for more info.
 
-> It’s important to remain as objective as a view as possible. Present developed arguments and the “full picture” — not
-> just your opinion!
+## **Governance Toolkit**
 
-### Phase 2: Discussion :seedling: - Discourse
+The primary tools for The RadicleDAO governance are:
 
-To move a **Temperature Check** forward, it should then be presented for formal, structured discussion in Phase 2. Phase
-2 requires two things: a **formal discussion** on Discourse and a **drafted proposal** that presents a thorough analysis
-for formal review by Radicle stakeholders.
+- **[Snapshot](https://snapshot.org/#/opcollective.eth)**: Where all Formal Reviews are submitted for vote.
+- **[radicle.community](https://radicle.community/):** A community forum for discussion about governance proposals and topics.
+- **[Discord](https://discord-gateway.optimism.io/)**: For governance announcements and informal governance discussion.
 
-#### Drafted Proposal
+Additional tools for voting and proposal making can be found here.
 
-The goal of this phase is to take the the ideas, arguments, and feedback generated in the Temperature Check and craft an
-overview of the proposal that meets the following criteria:
+## Proposal Process
 
-- **Functional description** (what is this being proposed?)
-- **Purpose** (what’s the “why”?)
-- **Background** (what is the reasoning behind the proposal?)
-- **Link to Temperature Check**
-- **Reasoning & analysis** (what is the case for the proposal? what are the pros and cons?)
-- **Technical implementation** (who will be writing the code? what is the scope required?)
-- **Impact** (how does this contribute to the long-term resilience, sustainability and/or growth of the Radicle network?)
-- **Open questions** (what else needs to be figured out?)
+A Radicle Governance Proposal (RGP) can be proposed on-chain by anyone who has an amount of $RAD greater than or **equal to 1% of total total supply delegated** to their address. RGPs must be formally labeled in the following format: e.g. `RGP-1`
 
-:::note
+To submit an EGP on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. It also provides on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions. Ultimately, involving the community in the public review and development of the proposal is also a way to protect the RadicleDAO, ensuring that what makes its way to an on-chain vote has already been vetted and reviewed in a transparent manner. 
 
-Governance Proposals are executable code and must be audited. The Radicle core team will support community members with
-development resources if necessary, but please do not create a draft proposal without thinking through the technical
-implementation.
+See Proposal Cycles for a timeline of governance processes.
 
-:::
+### Proposal Types
 
-#### Discourse Post
+All proposals are considered a RGP. There are three main categories of RGPs:
 
-To escalate a **Temperature Check** to a **Discussion**:
+| Type | Description | Process |
+| --- | --- | --- |
+| Executable | On-chain actions such as treasury distributions, updates to contract parameters, and upgrades to governance system. | Discussion → Formal Review → Submission |
+| Social | Changes that can not be enforced by the DAO on-chain (e.g. updates to Governance Manual) | Discussion → Formal Review  |
+| Consensus | Ad-hoc changes that “should” have community approval, but aren’t classified by an Executable or Social proposal | Discussion → Formal Review |
 
-- Create a topic and label it as follows: “Discussion :seedling: - Your Title Here”.
-- Include an overview of the drafted proposal that meets the criteria outlined above and link to it’s previous
-  **Temperature Check**.
+Each proposal type has a designated [template](https://www.notion.so/Proposal-Template-Library-e8b3408c8c0a4c2d8288629f183a5f54).
 
-Anybody can escalate a Temperature Check to a Discussion by putting together an draft proposal that meets these
-criteria. If a Discussion is started without demonstrating a successful Temperature Check, then it will be flagged and
-closed by community moderators.
+### Proposal Cycles
 
-### Phase 3: Formal Review :herb: - Discourse + Snapshot
+The RadicleDAO manages proposals in ****************************monthly cycles**************************** to sync voting periods and establish a manageable cadence for governance participants. 
 
-After a proposal is thoroughly discussed, the proposal can be submitted to the community for **Formal Review**.
+| Monthly Schedule | Stage | Weekly Schedule | Action |
+| --- | --- | --- | --- |
+| Week 1 | Discussion | First Monday  | Post proposal to forum for Discussion* |
+| Week 2 | Discussion | Second Wednesday | Join monthly Governance Call to present and discuss proposal with community |
+| Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
+| Week 4 | Submission | Fourth Monday | Submit proposal on-chain |
 
-To do this:
+**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle*
 
-- Create a Snapshot poll that includes the updated overview of the proposal and options on how to move forward. The
-  options can be multiple choice (if to present multiple options for the proposal) or be binary, but must include the
-  choice Make no change. **Voting for Snapshot polls should start on a Monday, at 5pm CET and end on the following
-  Monday, at 5pm CET**.
+### Voting Thresholds
 
-  :::note
+Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is ****************approved**************** if it satisfies the following minimum vote thresholds:
 
-  You can’t edit a Snapshot poll after it is submitted, so please make sure you include as much information as possible.
+- ****************************Quorum:**************************** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as *********************************a % of the total RAD supply.********************************* The required quorum to pass a proposal is **4% (4M RAD) of total supply (100M RAD)**
+    
+    *******************Formal Reviews******************* and *Submissions* are required to meet quorum requirements.
+    
+- ********Approval Threshold:******** If quorum is met, the proposal passes if a majority of the votes are “in-favor”.
 
-  :::
+**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle*
 
-- Create a topic and label it as follows: “Formal Review :herb: - Your Title Here”. Link the Snapshot poll in the topic. Any topic that is labeled Formal Review and does not link to a successful Temperature check and/or does not meet the criteria outlined above will be flagged and removed.
-- All Radicle stakeholders are responsible for ensuring proper review of any proposal in Formal Review. This includes the core team. However, as the ‘Champion’ of the proposal, it is your responsibility to gather support for your proposal by sourcing delegates, actively responding to questions, and addressing feedback regarding the proposal.
+*****Submission triggers a 3-day voting period. If passed, the proposal is queued for 48hrs, then it can be executed.*** 
 
-At the end of 5 days, whichever option has the majority of votes wins. 4% of participation is required for a Snapshot to pass Formal Review. Only then should it be deployed as an official Governance Proposal. If the option “Make no change” wins, the topic should be archived by community moderators.
+## Voting
 
-### Phase 4: Governance Proposal :sunflower:
+Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.radicle.xyz/docs/connecting-to-ethereum/obtaining-rad). One RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
-Once a draft proposal has been formally reviewed and consensus has been met in the Snapshot, it can be officially
-proposed as a Governance Proposal. Governance Proposals are voted for on-chain via
-[gov.radicle.network](https://gov.radicle.network/#/delegates/radicle). They are executable code, not suggestions for a
-team or foundation to implement. All proposed code should be audited by a professional auditor. Anybody with 1% of RAD
-delegated to their address can create a Governance Proposal. At the moment, proposals can be made with our [custom
-governance CLI tool](https://github.com/radicle-dev/radgov). An official governance interface for creating proposals is
-in development.
+- **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
+- **Submissions:** *On-chain* voting for RGPs take place on [gov.radicle.network](https://gov.radicle.network/#/delegates/radicle).
 
-All proposals are subject to a 3-day voting period, and any address with voting power can vote for or against the
-proposal Resources for proposing can be found [here](https://compound.finance/docs/governance#propose).
+You can keep track of all open proposals and vote directly on the [Radicle Governance Portal](https://boardroom.io/radicle/overview) 🌱 
 
-To create a Governance Proposal:
+### Voting Thresholds
 
-1. Write the proposal code and deploy the proposal via [rad gov](https://github.com/radicle-dev/radgov). All proposed
-   code should be audited by a professional auditor.
-2. Ensure at least 1 million $RAD is delegated to your address. If you do not have enough RAD to create a proposal, find
-   a delegate to either delegate to you or propose on your behalf.
-3. Create a topic titled “Governance Proposal [Proposal Number] — [Your Title Here]”. Be sure to include:
-   - A link to the official proposal in gov.radicle.network.
-   - Links to any relevant Snapshot polls/discussion threads and link to any relevant Snapshot polls/discussion threads.
-   - A full overview of the proposal, with any feedback or changes introduced during the Formal Review.
+Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is ****************approved**************** if it satisfies the following minimum vote thresholds:
 
-*Topics that begin with “Governance Proposal” that have not successfully passed a Temperature Check and a Formal Review
-should be removed by community moderators.*
+- ****************************Quorum:**************************** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as *********************************a % of the total RAD supply.********************************* The required quorum to pass a proposal is **4% (4M RAD) of total supply (100M RAD)**
+    
+  *Formal Reviews* and *Submissions* are required to meet quorum requirements.
+    
+- **Approval Threshold:** If quorum is met, the proposal passes if a majority of the votes are “in-favor”.
 
-## Community Moderators
+## Delegating
 
-Moderators steward governance by supporting community members as they escalate proposals through the governance process. This includes:
+On-chain voting is enabled by delegating voting rights to the address (or addresses) of the token holder's choice:
 
-- Refining and updating governance processes based on needs of the project.
-- Ensuring proper following of the governance process.
-- Removing spam & members who violate Code of Conduct.
+- The owner’s own wallet, if they would like to vote on their own.
+- Another user's wallet, if they would like the other user to vote on their behalf.
+- No wallet, if they don't want to vote.
 
-**:seedling: Current lead community moderator: [@abbey](https://radicle.community/u/abbey)**
+Delegation takes place on-chain on various governance management platforms (e.g. via [Boardroom](https://boardroom.io/radicle/proposals) or [Tally](https://www.tally.xyz/gov/eip155:1:0x690e775361AD66D1c4A25d89da9fCd639F5198eD)). After connecting a wallet holding RAD, you are then able to delegate to either yourself or others. If you are delegating to yourself, after the delegation process is complete you are able to participate in on-chain voting. If you are delegating to others, they will received the amount you delegate as voting power to participate in on-chain voting.
 
-:::note
+> ℹ️ Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
 
-This process is for creating official Governance Proposals for formal voting on-chain. “Off-chain” governance for
-community actions & proposals that are not related to systems that the governor does not control, can be discussed and
-improved via informal governance on this forum. This can include starting formal discussions around ideas, strategies,
-and suggestions for refining and improving Radicle governance.
+### Delegate Types 👥
 
-If you’d like to start a discussion on a topic that lies outside of formal governance, please be sure to tag the topic
-as metagovernance.
+There are two types of delegates in the Radicle governance process - a regular delegate and an “Active Delegate”. The main difference between the two is the Active Delegates have shared a more detailed profile of their expertise, governance values and conflicts of interest on the Active Delegate Platform and have committed to share their thoughts on each proposal so token holders are better able to assess  who they would like to delegate to.
 
-:::
+> ℹ️ You DO NOT have to announce yourself as an *active delegate* for someone to delegate to your address on Sybil. The Active Delegate Platform is meant to provide an opportunity for motivated community members to make themselves known to the broader Radicle community to let token holders know they are happy to vote on their behalf.
+    
+    
+
+**How to become an Active Delegate:**
+
+- Read the [Radicle Active Delegate Announcement Process & Platform](https://radicle.community/t/radicle-active-delegate-announcement-process-platform/2669) post for further details on the platform and goals behind it.
+- Follow the steps explained here: [Radicle Delegate Announcement Process](https://radicle.community/t/radicle-delegate-announcement-process/2668)
+- Visit the [Active Delegates Platform](https://govradicle.super.site/02bd9d2ca1b64e04bc92dc93ff823afb?v=7b05e551acfa44309930774659ca043a) to find a list of active community delegates
+
+> In addition to the Code of Conduct, Radicle Delegates are expected to adhere to our Delegate Standards, a set of requirements for ensuring healthy & safe community governance. Please review [the standards](https://govradicle.super.site/delegate-standards) before announcing yourself as a delegate 👇
+
+### Never miss a vote! 🤳
+
+The best way to get live governance updates is by following the Radicle Governance Twitter ([@rad_gov](https://twitter.com/rad_gov)) or follow the 🏛️governance-updates channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radicle/overview).
+
+The *Radicle Governance Updates* newsletter is a bi-weekly newsletter that provides updates on recent proposals, what the governance team is focusing on, as well as event and other reminders. You can [subscribe here](https://bit.ly/3trPqXA).
+
