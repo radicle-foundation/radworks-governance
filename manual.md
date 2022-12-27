@@ -1,4 +1,4 @@
-# Governance Manual
+# Governance Manual [v0.2]
 
 > ❗ This document describes the current governance processes of the RadicleDAO. It is version-controlled and can only updated via off-chain approval. It’s currently maintained [here](https://github.com/ethereum-optimism/Operating-manual) on Radicle.
 
@@ -114,20 +114,6 @@ On-chain voting is enabled by delegating voting rights to the address (or addres
 Delegation takes place on-chain on various governance management platforms (e.g. via [Boardroom](https://boardroom.io/radicle/proposals) or [Tally](https://www.tally.xyz/gov/eip155:1:0x690e775361AD66D1c4A25d89da9fCd639F5198eD)). After connecting a wallet holding RAD, you are then able to delegate to either yourself or others. If you are delegating to yourself, after the delegation process is complete you are able to participate in on-chain voting. If you are delegating to others, they will received the amount you delegate as voting power to participate in on-chain voting.
 
 > ℹ️ Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
-
-### Delegate Types 👥
-
-There are two types of delegates in the Radicle governance process - a regular delegate and an “Active Delegate”. The main difference between the two is the Active Delegates have shared a more detailed profile of their expertise, governance values and conflicts of interest on the Active Delegate Platform and have committed to share their thoughts on each proposal so token holders are better able to assess  who they would like to delegate to.
-
-> ℹ️ You DO NOT have to announce yourself as an *active delegate* for someone to delegate to your address on Sybil. The Active Delegate Platform is meant to provide an opportunity for motivated community members to make themselves known to the broader Radicle community to let token holders know they are happy to vote on their behalf.
-    
-    
-
-**How to become an Active Delegate:**
-
-- Read the [Radicle Active Delegate Announcement Process & Platform](https://radicle.community/t/radicle-active-delegate-announcement-process-platform/2669) post for further details on the platform and goals behind it.
-- Follow the steps explained here: [Radicle Delegate Announcement Process](https://radicle.community/t/radicle-delegate-announcement-process/2668)
-- Visit the [Active Delegates Platform](https://govradicle.super.site/02bd9d2ca1b64e04bc92dc93ff823afb?v=7b05e551acfa44309930774659ca043a) to find a list of active community delegates
 
 > In addition to the Code of Conduct, Radicle Delegates are expected to adhere to our Delegate Standards, a set of requirements for ensuring healthy & safe community governance. Please review [the standards](https://govradicle.super.site/delegate-standards) before announcing yourself as a delegate 👇
 
