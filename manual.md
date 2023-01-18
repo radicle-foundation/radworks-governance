@@ -37,6 +37,8 @@ Please refer to the rest of the document for details on how to navigate each pha
 
 ### Phase 1: Temperature Check :fire: - Discourse
 
+This is an example change!
+
 The path to creating an official proposal starts with an informal discussion in the Governance category of
 [radicle.community](http://radicle.community/) by calling for a Temperature Check. Inspired by
 [Uniswap](https://gov.uniswap.org/), a “Temperature Check” is a way to officially create a space for discussion around a
