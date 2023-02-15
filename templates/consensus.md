@@ -29,21 +29,21 @@ A governance facilitator will update the RGP with the correct number. They will 
 > 💡 Proposal Authors (the individual(s) who created a proposal) are expected to escalate proposals from phase to phase, with guidance from community moderators. This also means they are responsible for creating forum posts for each stage. If the original Author(s) can’t move a Proposal forward, they are responsible for finding someone to replace them. Any changes needs to be communicated in the proposal.
 
 
-## **Purpose**
+## Purpose
 
 > 👉 What is this proposal aiming to achieve? What problem(s) is it trying to solve?
 
 
 ## Overview & Background
 
-> 👉 What is being proposed? What resources can be shared to provide additional context?
+> 👉 How will this proposal achieve what it aims to do? How will it solve the problem being called out? How would this proposal contribute to the long-term resilience, sustainability and/or growth?
 
 
 ## Implementation
 
-> 👉 Include a functional description of how this proposal will be implemented. Please describe any technical elements and updates in this section.
+> 👉 Include a functional description of how this proposal will be implemented.
 
 
-## ****Reasoning & Analysis****
+## Reasoning & Analysis
 
-> 👉 How will this proposal achieve what it aims to do? How will it solve the problem being called out? How would this proposal contribute to the long-term resilience, sustainability and/or growth? Why does the solution and execution of this proposal make sense?
+> 👉 Why does the solution and execution of this proposal make sense?

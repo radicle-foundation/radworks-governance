@@ -1,7 +1,12 @@
 # Social Proposal Template
 
-> ℹ️ **Social Proposals** propose changes that can not be enforced by the DAO on-chain. Examples include changes to off-chain governance parameters (e.g. Snapshot thresholds), updates to DAO-governed resources (e.g. mission/vision/purpose), revisions to governance documents (e.g. Governance Manual). Use this template as a guide to draft a Social Proposal.
+> ℹ️ **Social Proposals** propose changes that can not be enforced by the DAO on-chain. Use this template as a guide to draft a Social Proposal.
 > 
+> **Examples of common Social Proposals:**
+> - Changes to off-chain governance parameters (e.g. Snapshot thresholds)
+> - Updates to DAO-governed resources (e.g. mission/vision/purpose)
+> - Revisions to governance documents (e.g. Governance Manual)
+>
 > **General Info & Tips**
 > - Try to keep each section clear and concise!
 > - Please include any relevant links or post in each section.
@@ -29,9 +34,9 @@ A governance facilitator will update the RGP with the correct number. They will 
 > 💡 Proposal Authors (the individual(s) who created a proposal) are expected to escalate proposals from phase to phase, with guidance from community moderators. This also means they are responsible for creating forum posts for each stage. If the original Author(s) can’t move a Proposal forward, they are responsible for finding someone to replace them. Any changes needs to be communicated in the proposal.
 
 
-## **Purpose**
+## Purpose
 
-> 👉 What is this proposal aiming to achieve? What problem(s) is it trying to solve?
+> 👉 What is this proposal aiming to achieve? What problem(s) is it trying to solve? 
 
 
 ## Overview & Background
@@ -44,6 +49,6 @@ A governance facilitator will update the RGP with the correct number. They will 
 > 👉 Include a functional description of how this proposal will be implemented. Please describe any technical elements and updates in this section.
 
 
-## ****Reasoning & Analysis****
+## Reasoning & Analysis
 
 > 👉 How will this proposal achieve what it aims to do? How will it solve the problem being called out? How would this proposal contribute to the long-term resilience, sustainability and/or growth? Why does the solution and execution of this proposal make sense?
