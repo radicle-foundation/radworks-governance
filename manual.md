@@ -39,7 +39,7 @@ Additional tools for voting and proposal making can be found here.
 
 ## Proposal Process
 
-A Radicle Governance Proposal (RGP) can be proposed on-chain by anyone who has an amount of $RAD greater than or **equal to 1% of total total supply delegated** to their address. RGPs must be formally labeled with the proposal type, #, and title (e.g. [Executeable/Social/Consensus][RGP - #] - [PROPOSAL TITLE])
+A RAD Governance Proposal (RGP) can be proposed on-chain by anyone who has an amount of $RAD greater than or **equal to 1% of total total supply delegated** to their address. RGPs must be formally labeled with the proposal type, #, and title (e.g. [Executeable/Social/Consensus][RGP - #] - [PROPOSAL TITLE])
 
 To submit an EGP on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. It also provides on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions. Ultimately, involving the community in the public review and development of the proposal is also a way to protect the RadicleDAO, ensuring that what makes its way to an on-chain vote has already been vetted and reviewed in a transparent manner. 
 
