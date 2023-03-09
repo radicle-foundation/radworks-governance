@@ -1,6 +1,6 @@
 # Governance Manual [v0.2]
 
-> ❗ This document describes the current governance processes of the RadicleDAO. It is version-controlled and can only updated via off-chain approval. It’s currently maintained [here](https://github.com/ethereum-optimism/Operating-manual) on Radicle.
+> ❗ This document describes the current governance processes of the RadicleDAO. It is version-controlled and can only updated via off-chain approval.
 
 > 📝 For more on how this document is maintained please refer to contributing.md
 
