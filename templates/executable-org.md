@@ -1,6 +1,6 @@
 # Org Proposal Template
 
-> ℹ️ **Org Proposals** are a form of [Executable Proposals](/executable.md). They are a request to the RadicleDAO to fund groups of contributors working on different purposes, objectives, and technologies. Org Proposals are different than Grant proposals, as they outline continuous budgeted work vs. milestone-based work. Use this template as a guide to draft a Org Proposal.
+> ℹ️ **Org Proposals** are a form of [Executable Proposals](/executable.md). They are a request to the RadicleDAO to fund groups of contributors working on different purposes, objectives, and technologies. Org Proposals are different than Grant proposals, as they outline continuous budgeted work vs. milestone-based work. This proposal type needs to pass both an off-chain Snapshot poll and an on-chain governance submission to succeed. Use this template as a guide to draft a Org Proposal.
 > 
 > **General Info & Tips**
 > - Try to keep each section clear and concise!
