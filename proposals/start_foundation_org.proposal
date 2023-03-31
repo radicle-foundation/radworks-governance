@@ -1,0 +1,24 @@
+# 12 - Start the Foundation Org
+
+If executed, this proposal will:
+
+1. Transfer 3,660,993 USDC from the Radicle Treasury to a multi-sig controlled by the Foundation Org to support the 2023 work of the Operations, Marketing, and Governance Committee, as well as Foundation administration.
+
+**How was this proposal discussed?**
+Please see discussions here:
+* Temperature Check: https://radicle.community/t/temperature-check-start-the-foundation-org/3272
+* Discussion: https://radicle.community/t/discussion-start-the-foundation-org/3278
+* Formal Review: https://radicle.community/t/formal-review-start-the-foundation-org/3280
+* Snapshot Poll: https://snapshot.org/#/gov.radicle.eth/proposal/0x23fc3572c0ae8e6e50850f3ba33e634d64a248ebbb9b88c3082f8bc9b01dfbed
+
+## Notes
+* `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
+* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radicle Treasury address.
+* `0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB` is the Foundation Council USDC Multisig (Radicle Core Team Budgets)
+
+
+## ACTIONS ##
+```
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB 3660993000000
+```
+
