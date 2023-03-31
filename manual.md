@@ -119,7 +119,7 @@ Delegation takes place on-chain on various governance management platforms (e.g.
 
 ### Never miss a vote! 🤳
 
-The best way to get live governance updates is by following the Radicle Governance Twitter ([@rad_gov](https://twitter.com/rad_gov)) or follow the 🏛️governance-updates channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radicle/overview).
+The best way to get live governance updates is by following the Radicle Governance Twitter ([@rad_gov](https://twitter.com/rad_gov)) or follow the [🏛️governance-updates](https://discord.gg/RHp2FKV4) channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radicle/overview).
 
 The *Radicle Governance Updates* newsletter is a bi-weekly newsletter that provides updates on recent proposals, what the governance team is focusing on, as well as event and other reminders. You can [subscribe here](https://bit.ly/3trPqXA).
 
