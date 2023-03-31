@@ -91,7 +91,7 @@ Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.r
 - **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
 - **Submissions:** *On-chain* voting for RGPs take place on [gov.radicle.network](https://gov.radicle.network/#/delegates/radicle).
 
-You can keep track of all open proposals and vote directly on the [Radicle Governance Portal](https://boardroom.io/radicle/overview) 🌱 
+You can keep track of all open proposals and vote directly on the [RadicleDAO's Boardroom profile](https://boardroom.io/radicle/overview) 🌱 
 
 ### Voting Thresholds
 
