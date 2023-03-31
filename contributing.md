@@ -8,3 +8,5 @@ The Radicle governance process is meant to be owned and developed by the Radicle
 - If proposal passes *Formal Review*, member of Governance Org approves the pull request
 
 This process allows anybody to propose changes to the Governance Manual, but approval is still required by the community to ratify those changes. Having a member of the Governance Org be required for merging the PR creates a gatekeeper role, but we  will be thinking of ways to automate the ratification process in the future.
+
+*The Radicle Governance team reserves the right to update language & links as needed to ensure the Governance Manual is kept up to date. These changes do not require a Social proposal to pass, but are implemented transparently via the repository's PR and review process. 
