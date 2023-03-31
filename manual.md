@@ -54,7 +54,7 @@ All proposals are considered a RGP. There are three main categories of RGPs:
 | Social | Changes that can not be enforced by the DAO on-chain (e.g. updates to Governance Manual) | Discussion → Formal Review  |
 | Consensus | Ad-hoc changes that “should” have community approval, but aren’t classified by an Executable or Social proposal | Discussion → Formal Review |
 
-Each proposal type has a designated [template](https://www.notion.so/Proposal-Template-Library-e8b3408c8c0a4c2d8288629f183a5f54).
+Each proposal type has a designated [template](https://github.com/radicle-dev/radicle-governance/tree/main/templates).
 
 ### Proposal Cycles
 
