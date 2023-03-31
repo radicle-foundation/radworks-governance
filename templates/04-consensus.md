@@ -47,3 +47,4 @@ A governance facilitator will update the RGP with the correct number. They will 
 ## Reasoning & Analysis
 
 > 👉 Why does the solution and execution of this proposal make sense?
+
