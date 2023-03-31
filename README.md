@@ -2,6 +2,8 @@
 
 For all things Radicle governance including READMEs, proposals, and archived discussions. 
 
-This repository is hosted on Radicle at rad:git:hnrkpaqrou3y8i76e1jf7spjw8tq8qx4d6azy.
+* For the latest version of Radicle's governance process, see our [Governance Manual](/manual.md).
+* For help creating proposals, see our [proposal template library](/templates/)
+* For an archive of past proposals, see [proposals](/proposals/)
 
-https://app.radicle.network/community.radicle.eth
+If you're interested in applying for a Radicle Grant, please head to the [Radicle Grants](https://github.com/radicle-dev/radicle-grants) repository.
