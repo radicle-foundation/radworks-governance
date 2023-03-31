@@ -1,6 +1,6 @@
 # Social Proposal Template
 
-> ℹ️ **Social Proposals** propose changes that can not be enforced by the DAO on-chain. Use this template as a guide to draft a Social Proposal.
+> ℹ️ **Social Proposals** propose changes that can not be enforced by the DAO on-chain. Use this template as a guide to draft a Social Proposal. This proposal type needs to pass an off-chain Snapshot poll to succeed.
 > 
 > **Examples of common Social Proposals:**
 > - Changes to off-chain governance parameters (e.g. Snapshot thresholds)
