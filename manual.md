@@ -31,11 +31,10 @@ See Proposal Process for more info.
 
 The primary tools for The RadicleDAO governance are:
 
-- **[Snapshot](https://snapshot.org/#/opcollective.eth)**: Where all Formal Reviews are submitted for vote.
-- **[radicle.community](https://radicle.community/):** A community forum for discussion about governance proposals and topics.
-- **[Discord](https://discord-gateway.optimism.io/)**: For governance announcements and informal governance discussion.
-
-Additional tools for voting and proposal making can be found here.
+- **[Snapshot](https://snapshot.org/#/gov.radicle.eth)**: Off-chain voting platform for *Formal Reviews*
+- **[radicle.community](https://radicle.community/):** Community forum for discussion about governance proposals and topics.
+- **[Discord](https://discord.gg/Y4BuCK577q)**: For governance announcements and informal governance discussion.
+- **[Boardroom](https://boardroom.io/radicle/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
 
 ## Proposal Process
 
