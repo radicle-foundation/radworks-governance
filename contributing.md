@@ -4,7 +4,7 @@ The Radicle governance process is meant to be owned and developed by the Radicle
 
 - Clone `radicle-governance`
 - Make changes to `manual.md` and submit a pull request
-- Post a [`Social` proposal](/manual.md) to radicle.community for discussion outlining changes and sharing context
+- Post a [`Social` proposal](https://github.com/radicle-dev/radicle-governance/blob/main/manual.md#proposal-types) to radicle.community for discussion outlining changes and sharing context
 - If proposal passes *Formal Review*, member of Governance Org approves the pull request
 
 This process allows anybody to propose changes to the Governance Manual, but approval is still required by the community to ratify those changes. Having a member of the Governance Org be required for merging the PR creates a gatekeeper role, but we  will be thinking of ways to automate the ratification process in the future.
