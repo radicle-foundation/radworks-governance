@@ -38,11 +38,11 @@ The primary tools for The RadicleDAO governance are:
 
 ## Proposal Process
 
-A RAD Governance Proposal (RGP) can be proposed on-chain by anyone who has an amount of $RAD greater than or **equal to 1% of total total supply delegated** to their address. RGPs must be formally labeled with the proposal type, #, and title (e.g. [Executeable/Social/Consensus][RGP - #] - [PROPOSAL TITLE])
+A RAD Governance Proposal (RGP) can be proposed on-chain by anyone who has an amount of $RAD greater than or **equal to 1% of total total supply delegated** to their address. RGPs must be formally labeled with the stage of the proposal in the governance process, proposal type, #, and title (e.g. [Discussion/Formal Review/Submission][Executeable/Social/Consensus][RGP - #] - [PROPOSAL TITLE]).
 
-To submit an RGP on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. It also provides on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions. Ultimately, involving the community in the public review and development of the proposal is also a way to protect the RadicleDAO, ensuring that what makes its way to an on-chain vote has already been vetted and reviewed in a transparent manner. 
+To submit an RGP on-chain, it must first complete **an off-chain review process**. This includes a _Discussion_ period of at least 7 days on the forum and a _Formal Review_ via Snapshot vote before _Submission_ on-chain. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. It also provides on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions. Ultimately, involving the community in the public review and development of the proposal is also a way to protect the RadicleDAO, ensuring that what makes its way to an on-chain vote has already been vetted and reviewed in a transparent manner. 
 
-See Proposal Cycles for a timeline of governance processes.
+See Proposal Cycles below for a timeline of governance processes.
 
 ### Proposal Types
 
