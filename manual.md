@@ -43,9 +43,9 @@ The primary tools for The RadicleDAO governance are:
 | Forum post | Snapshot poll | On-chain vote |
 | ≥ 7 days | 7 day | 3 days vote, 2 day timelock  |
 
-RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, proposal type, #, and title (e.g. [Discussion/FR/Submission][Executable/Social/Consensus][RGP - #] - [PROPOSAL TITLE])
+RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
-A RGP must first complete **an off-chain review process** before it ****can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the RadicleDAO by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
+A RGP must first complete **an off-chain review process** before it can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the RadicleDAO by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
 
 A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or **equal to 1% of the total $RAD supply delegated** to their address (i.e ≥ 1M $RAD). There is no threshold to be met for posting a proposal in the  Discussion or Formal Review phases.
 
