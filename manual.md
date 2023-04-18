@@ -47,7 +47,9 @@ RAD Governance Proposals (RGPs) must be formally labeled with the phase of the p
 
 A RGP must first complete **an off-chain review process** before it can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the RadicleDAO by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
 
-A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or **equal to 1% of the total $RAD supply delegated** to their address (i.e ≥ 1M $RAD). There is no threshold to be met for posting a proposal in the  Discussion or Formal Review phases.
+Formal Reviews can be posted as Snapshot Polls by anyone who has an amount of $RAD greater than or equal to **1K $RAD delegated** to their address. This is to help prevent spam proposals. Please schedule all Snapshot Polls to start on the thrid Monday of the month and end at 5:00pm CET on the fourth Monday of the month.
+
+A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). 
 
 ### Proposal Types
 
