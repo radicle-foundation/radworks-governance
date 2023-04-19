@@ -72,11 +72,14 @@ The RadicleDAO manages proposals in **monthly cycles** to sync voting periods an
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
 | Week 1 | Discussion | First Monday  | Post proposal to forum for Discussion |
-| Week 2 | Discussion | Second Wednesday | Join monthly Governance Call to present and discuss proposal with community |
+| Week 2 | Discussion | Second Wednesday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Monday | Submit proposal on-chain |
 
 **Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle**
+
+### Proposal Reviews
+Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions around their active proposals that will be voted on this cycle. The calls will be recorded and archived for governance participant's reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
 ### Voting Thresholds
 
