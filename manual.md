@@ -81,20 +81,6 @@ The RadicleDAO manages proposals in **monthly cycles** to sync voting periods an
 ### Proposal Reviews
 Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions around their active proposals that will be voted on this cycle. The calls will be recorded and archived for governance participant's reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
-### Voting Thresholds
-
-Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is **approved** if it satisfies the following minimum vote thresholds:
-
-- **Quorum:*** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as ***a % of the total RAD supply.*** The required quorum to pass a proposal is **4% (4M RAD) of total supply (100M RAD)**
-    
-    **Formal Reviews** and *Submissions* are required to meet quorum requirements.
-    
-- **Approval Threshold:** If quorum is met, the proposal passes if a majority of the votes are “in-favor”.
-
-**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle*
-
-**Submission triggers a 3-day voting period. If passed, the proposal is queued for 48hrs, then it can be executed.** 
-
 ## Voting
 
 Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.radicle.community/governance/obtain-rad). One RAD token is equal to one vote. Voting takes place both on- and off-chain:
@@ -113,6 +99,10 @@ Once proposed, participants can vote for/against the proposal on-chain with thei
   *Formal Reviews* and *Submissions* are required to meet quorum requirements.
     
 - **Approval Threshold:** If quorum is met, the proposal passes if a majority of the votes are “in-favor”.
+
+**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle*
+
+**Submission triggers a 3-day voting period. If passed, the proposal is queued for 48hrs, then it can be executed.**
 
 ## Delegating
 
