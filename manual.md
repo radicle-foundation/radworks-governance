@@ -104,6 +104,10 @@ Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.r
 
 You can keep track of all open proposals and vote directly on the [RadicleDAO's Boardroom profile](https://boardroom.io/radicle/overview) 🌱 
 
+> Voting with Ledger Live: Ledger voting is supported on Boardroom. Snapshot & Tally currently do not support voting & delegation with Ledger Live.
+
+> Voting with a Multi-sig: On Boardroom, use Wallet Connect to connect as the Safe directly and use Boardroom as usual from there.
+
 ### Voting Thresholds
 
 Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is **approved** if it satisfies the following minimum vote thresholds:
