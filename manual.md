@@ -126,7 +126,7 @@ To participate in off-chain and on-chain voting, you have to first delegate the 
 
 > ℹ️ Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
 
-> In order to utilize delegated voting power in a vote, delegation needs to take place before the vote goes live. 
+> In order to utilize delegated voting power in a vote, delegation needs to take place *before* the vote goes live. 
 
 > Delegation only needs to be set up once. The only time you need to redelegate is to change or remove the address you are delegating to, otherwise delegation will continue to the asigned address.
 
