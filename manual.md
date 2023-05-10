@@ -51,7 +51,7 @@ A Snapshot poll for a Formal Review can be posted by anyone who has an amount of
 
 
 
-A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). 
+A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). Please add any executable proposal code to the [proposal code archive](https://github.com/radicle-dev/radicle-governance/tree/main/proposals). 
 
 ### Proposal Types
 
