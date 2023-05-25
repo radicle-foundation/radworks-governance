@@ -11,7 +11,7 @@ The RadicleDAO is governed by on-chain and off-chain governance processes. These
 
 ### On-chain
 
-The RadicleDAO’s Treasury is controlled by a tokenized governance mechanism ([Compound-Governor](https://wiki.tally.xyz/docs/compound-governor)) via the project’s native governance token ($RAD). As members of the RadicleDAO, $RAD holders participate in the decision-making around the treasury by voting and creating on-chain governance proposals composed of executable actions. 
+The RadicleDAO’s Treasury is controlled by a tokenized governance mechanism ([Compound-Governor Alpha](https://wiki.tally.xyz/docs/compound-governor)) via the project’s native governance token ($RAD). As members of the RadicleDAO, $RAD holders participate in the decision-making around the treasury by voting and creating on-chain governance proposals composed of executable actions. 
 
 Currently, these actions include:
 
