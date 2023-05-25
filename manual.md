@@ -1,17 +1,17 @@
 # Governance Manual [v0.2]
 
-> ❗ This document describes the current governance processes of the RadicleDAO. It is version-controlled and can only updated via off-chain approval.
+> ❗ This document describes the current governance processes of Radworks. It is version-controlled and can only updated via off-chain approval.
 
 > 📝 For more on how this document is maintained please refer to contributing.md
 
 
 # Overview
 
-The RadicleDAO is governed by on-chain and off-chain governance processes. These together make up Radicle’s **governance system** It’s on-chain governance can be referred to as the DAO’s **governance module.**
+Radworks is governed by on-chain and off-chain governance processes. These together make up Radworks' **governance system** Its on-chain governance can be referred to as the DAO’s **governance module.**
 
 ### On-chain
 
-The RadicleDAO’s Treasury is controlled by a tokenized governance mechanism ([Compound-Governor](https://wiki.tally.xyz/docs/compound-governor)) via the project’s native governance token ($RAD). As members of the RadicleDAO, $RAD holders participate in the decision-making around the treasury by voting and creating on-chain governance proposals composed of executable actions. 
+The Radworks Treasury is controlled by a tokenized governance mechanism ([Compound-Governor](https://wiki.tally.xyz/docs/compound-governor)) via the project’s native governance token ($RAD). As members of Radworks, $RAD holders participate in the decision-making around the treasury by voting and creating on-chain governance proposals composed of executable actions. 
 
 Currently, these actions include:
 
@@ -19,17 +19,17 @@ Currently, these actions include:
 - Upgrades to the on-chain governance system (Compound Governor)
 - Changes to parameters of Treasury-governed contracts (e.g. Drips)
 
-To learn more about token governance and how the RadicleDAO’s on-chain governance system works, [see here](https://wiki.tally.xyz/docs/compound-governor).
+To learn more about token governance and how Radworks’ on-chain governance system works, [see here](https://wiki.tally.xyz/docs/compound-governor).
 
 ### Off-chain
 
-In addition to the on-chain governance system, the RadicleDAO manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote.
+In addition to the on-chain governance system, Radworks manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote.
 
 See Proposal Process for more info.
 
 ## **Governance Toolkit**
 
-The primary tools for The RadicleDAO governance are:
+The primary tools for Radworks governance are:
 
 - **[Snapshot](https://snapshot.org/#/gov.radicle.eth)**: Off-chain voting platform for *Formal Reviews*
 - **[Boardroom](https://boardroom.io/radicle/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
@@ -45,7 +45,7 @@ The primary tools for The RadicleDAO governance are:
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
-A RGP must first complete **an off-chain review process** before it can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radicle community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the RadicleDAO by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
+A RGP must first complete **an off-chain review process** before it can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the Radworks by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
 
 A Snapshot poll for a Formal Review can be posted by anyone who has an amount of $RAD greater than or equal to **1K $RAD delegated** to their address. This is to prevent spam proposals. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll must have three voting options: `Yes` `No` and `Abstain`.
 
@@ -67,7 +67,7 @@ Each proposal type has a designated [template](https://github.com/radicle-dev/ra
 
 ### Proposal Cycles
 
-The RadicleDAO manages proposals in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
+Radworks manages proposals in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
@@ -88,13 +88,13 @@ Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.r
 - **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
 - **Submissions:** *On-chain* voting for RGPs take place on [gov.radicle.network](https://gov.radicle.network/#/delegates/radicle).
 
-You can keep track of all open proposals and vote directly on the [RadicleDAO's Boardroom profile](https://boardroom.io/radicle/overview) 🌱 
+You can keep track of all open proposals and vote directly on the [Radworks' Boardroom profile](https://boardroom.io/radicle/overview) 🌱 
 
 ### Voting Thresholds
 
 Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is **approved** if it satisfies the following minimum vote thresholds:
 
-- **Quorum:** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as **a % of the total RAD supply.** The required quorum to pass a proposal is **4% (4M RAD) of total supply (100M RAD)**
+- **Quorum:** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as **a % of the total $RAD supply.** The required quorum to pass a proposal is **4% (4M $RAD) of total supply (100M $RAD)**
     
   *Formal Reviews* and *Submissions* are required to meet quorum requirements.
     
@@ -120,10 +120,10 @@ To participate in off-chain and on-chain voting, you have to first delegate the 
 
 > Delegation only needs to be set up once. The only time you need to redelegate is to change or remove the address you are delegating to, otherwise delegation will continue to the asigned address.
 
-> In addition to the Code of Conduct, Radicle Delegates are expected to adhere to our Delegate Standards, a set of requirements for ensuring healthy & safe community governance. Please review [the standards](https://govradicle.super.site/delegate-standards) before announcing yourself as a delegate 👇
+> In addition to the Code of Conduct, Radworks Delegates are expected to adhere to our Delegate Standards, a set of requirements for ensuring healthy & safe community governance. Please review [the standards](https://govradicle.super.site/delegate-standards) before announcing yourself as a delegate 👇
 
 ### Never miss a vote! 🤳
 
-The best way to get live governance updates is by following the Radicle Governance Twitter ([@rad_gov](https://twitter.com/rad_gov)) or follow the [🏛️governance-updates](https://discord.gg/RHp2FKV4) channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radicle/overview).
+The best way to get live governance updates is by following the Radworks Twitter ([@rad_gov](https://twitter.com/rad_gov)) or follow the [🏛️governance-updates](https://discord.gg/RHp2FKV4) channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radicle/overview).
 
 
