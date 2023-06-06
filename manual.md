@@ -71,7 +71,8 @@ The RadicleDAO manages proposals in **monthly cycles** to sync voting periods an
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
-| Week 1 | Discussion | First Monday  | Post proposal to forum for Discussion |
+| Week 1 | Discussion | First Monday  | Start of the next proposal cycle |
+| Week 2 | Discussion | Second Monday  | Deadline to post proposal to forum for Discussion |
 | Week 2 | Discussion | Second Wednesday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Monday | Submit proposal on-chain |
