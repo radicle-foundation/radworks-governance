@@ -36,6 +36,8 @@ The primary tools for The RadicleDAO governance are:
 - **[radicle.community](https://radicle.community/):** Community forum for discussion about governance proposals and topics.
 - **[Discord](https://discord.gg/Y4BuCK577q)**: For governance announcements and informal governance discussion.
 
+> We highlight Boardroom for the information and features it offers, but any on-chain governance platform can take place on any on-chain governance platform (e.g. Boardroom, Tally, Sybil, etc.).
+
 ## Proposal Process
 
 | Discussion | Formal Review | Submission |
