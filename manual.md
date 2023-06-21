@@ -23,9 +23,9 @@ To learn more about token governance and how the RadicleDAO’s on-chain governa
 
 ### Off-chain
 
-In addition to the on-chain governance system, the RadicleDAO manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote.
+In addition to the on-chain governance system, the RadicleDAO manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote. An off-chain review process is also required for all proposal before they can be submitted on-chain.
 
-See Proposal Process for more info.
+See _Proposal Process_ for more info.
 
 ## **Governance Toolkit**
 
