@@ -82,7 +82,7 @@ The RadicleDAO manages proposals in **monthly cycles** to sync voting periods an
 **Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle**
 
 ### Proposal Reviews
-Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions around their active proposals that will be voted on this cycle. The calls will be recorded and archived for governance participant's reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
+Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions on their active proposals that will be voted on this cycle. The calls will be recorded and archived for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
 ## Voting
 
