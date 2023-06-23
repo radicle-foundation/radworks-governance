@@ -7,7 +7,7 @@
 
 # Overview
 
-The RadicleDAO is governed by on-chain and off-chain governance processes. These together make up Radicle’s **governance system** It’s on-chain governance can be referred to as the DAO’s **governance module.**
+The RadicleDAO is governed by on-chain and off-chain governance processes. These together make up Radicle’s **governance system** 
 
 ### On-chain
 
@@ -87,9 +87,8 @@ Proposal Reviews take place on the second Wednesday of each month. These calls a
 Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.radicle.community/governance/obtain-rad). One RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
 - **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
-- **Submissions:** *On-chain* voting for RGPs take place on [gov.radicle.network](https://gov.radicle.network/#/delegates/radicle).
-
-You can keep track of all open proposals and vote directly on the [RadicleDAO's Boardroom profile](https://boardroom.io/radicle/overview) 🌱 
+- **Submissions:** *On-chain* voting for RGPs take place on [Boardroom](https://boardroom.io/radicle/proposals) (or the governance platform of your choice).
+ 
 
 ### Voting Thresholds
 
