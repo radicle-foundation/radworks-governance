@@ -1,4 +1,4 @@
-# Our Purpose
+# Our Purpose 🌱
 
 ## Preamble 
 The purpose serves to constitute Radworks, memorializing what we believe and the organization’s raison d’etre. It’s intended as a living document: a North Star that the community can return to for clarity in times of change, challenge, confusion, or conflict. If successful, this document will help protect and further Radwork’s purpose over time as we collectively navigate change. 
