@@ -13,7 +13,7 @@ The purpose serves to constitute Radworks, memorializing what we believe and the
 7. Sustainability - That technology should be developed with a long-term perspective, and should prioritize technical and financial sustainability.
 
 ## Purpose Statement
-The DAO funds new resilient, permissionless technologies to cultivate internet freedom. We focus on funding and supporting the creation of censorship-resistant and decentralized technologies that empower builders and creators to collaborate. We are committed to enabling individuals and communities to collaborate in the digital realm securely and freely. 
+The DAO funds new, resilient, permissionless technologies to cultivate internet freedom. We focus on funding and supporting the creation of censorship-resistant and decentralized technologies that empower builders and creators to collaborate. We are committed to enabling individuals and communities to collaborate in the digital realm securely and freely. 
 
 ### Our Focuses
 1. Ecosystem health - Governing and operating with the goals of increasing the health of the ecosystem, improving the diversity of token holders and network participants, and supporting the long-term sustainability and resiliency of the DAO. 
