@@ -6,7 +6,7 @@ The purpose serves to constitute Radworks, memorializing what we believe and the
 ## Foundational Beliefs
 1. Freedom - That technology should be developed to promote freedom and privacy, no matter where you are in the world.
 2. Decentralization - That the internet should be decentralized and governed by its users, rather than controlled by governments or corporations.
-3. Security - That technologies should be developed to protect individual privacy and prevent surveillance. 
+3. Privacy - That technologies should be developed to protect individual privacy and prevent surveillance. 
 4. Accessibility - That technologies and information should be open and accessible to everyone, regardless of financial status or location.
 5. Community - That technology should be developed to promote and harness community, collaboration, and peer-to-peer networks.
 6. Resilience - That technology should be developed to be resistant to censorship, capture, and anti-competitive forces.
