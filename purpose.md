@@ -1,7 +1,7 @@
 # Our Purpose 🌱
 
 ## Preamble 
-The purpose serves to constitute Radworks, memorializing what we believe and the organization’s raison d’etre. It’s intended as a living document: a North Star that the community can return to for clarity in times of change, challenge, confusion, or conflict. If successful, this document will help protect and further Radwork’s purpose over time as we collectively navigate change. 
+The purpose serves to constitute Radworks, memorializing what we believe and the organization’s raison d’etre. It’s intended as a living document: a North Star that the community can return to for clarity in times of change, challenge, confusion, or conflict. If successful, this document will help protect and further Radworks' purpose over time as we collectively navigate change. 
 
 ## Foundational Beliefs
 1. Freedom - That technology should be developed to promote freedom and privacy, no matter where you are in the world.
