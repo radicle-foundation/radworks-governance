@@ -31,4 +31,6 @@ The DAO funds new, resilient, permissionless technologies to cultivate internet 
         \ |     \ |/       | / \ | /  \|/       |/    \|      \|/   \ |/
         \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|//  \\|///
 
+    --- 
+
     🌱 abbey
