@@ -23,14 +23,13 @@ The DAO funds new, resilient, permissionless technologies to cultivate internet 
 5. Organizational ethos - Operating and governing the DAO in a manner that reflects the values we seek to support and promote through our activities. These are codified in the DAO’s organizational principles. 
 
                         _
-                      _(_)_                          wWWWw   _
-          @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
-         @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)   wWWWw
-          @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\    (___)
-           /      Y       \|    \|/    /(_)    \|      |/      |      Y
-        \ |     \ |/       | / \ | /  \|/       |/    \|      \|/   \ |/
-        \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|//  \\|///
+                      _(_)_                          wWWWw   _                           wWWWw
+          @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_            @@@@     _   (___)   @@@@
+         @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)  wWWWw   @@()@@  _(_)_   Y    @@()@@
+          @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\   (___)    @@@@  (_)@(_) \|/    @@@@
+           /      Y       \|    \|/    /(_)    \|      |/      |     Y       /     /(_)    |/     \|
+        \ |     \ |/       | / \ | /  \|/       |/    \|      \|/  \ |/   \ |     \|/     \|       |/
+        \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// \\|/// \\|/// \\|///  \\|//  \\\|//
 
-    --- 
 
     🌱 abbey
