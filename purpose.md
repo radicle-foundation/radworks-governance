@@ -21,3 +21,16 @@ The DAO funds new, resilient, permissionless technologies to cultivate internet 
 3. Cultural development - Supporting the creation of a culture that is conducive to internet freedom through education and community engagement. 
 4. Demonstrating the viability of open source alternatives - Demonstrating the viability (in cost, labor, quality, and resiliency) of open-source software and its development by distributed organizations and communities as an alternative to conventionally funded, owned, and centrally controlled tech corporations.
 5. Organizational ethos - Operating and governing the DAO in a manner that reflects the values we seek to support and promote through our activities. These are codified in the DAO’s organizational principles. 
+
+                        _
+                      _(_)_                          wWWWw   _
+          @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+         @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)   wWWWw
+          @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\    (___)
+           /      Y       \|    \|/    /(_)    \|      |/      |      Y 
+        \ |     \ |/       | / \ | /  \|/       |/    \|      \|/   \ |/
+        \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|//  \\|///
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+    🌱 abbey 
