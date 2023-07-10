@@ -130,6 +130,6 @@ The best way to get live governance updates is by following the Radworks Twitter
 
 You can subscribe to our community calendar that includes reminders for Quarterly Community Calls, monthly Proposal Review calls and each week of the monthly governance cycle.
 
-You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radicle/overview).
+You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radworks/overview).
 
 
