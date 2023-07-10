@@ -33,7 +33,7 @@ The primary tools for Radworks governance are:
 
 - **[Snapshot](https://snapshot.org/#/gov.radicle.eth)**: Off-chain voting platform for *Formal Reviews*
 - **[Boardroom](https://boardroom.io/radworks/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
-- **[Discourse](https://radicle.community/):** Community forum for discussion about governance proposals and topics.
+- **[Discourse](https://community.radworks.org/):** Community forum for discussion about governance proposals and topics.
 - **[Discord](https://discord.gg/radworks)**: For governance announcements and informal governance discussion.
 
 > We highlight Boardroom for the information and features it offers, but voting and delegation can take place on any on-chain governance platform (e.g. Boardroom, Tally, Sybil, etc.).
