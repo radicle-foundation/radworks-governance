@@ -25,7 +25,7 @@ To learn more about token governance and how Radworks’ on-chain governance sys
 
 In addition to the on-chain governance system, Radworks manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote.
 
-See Proposal Process for more info.
+See _Proposal Process_ for more info.
 
 ## **Governance Toolkit**
 
@@ -35,6 +35,8 @@ The primary tools for Radworks governance are:
 - **[Boardroom](https://boardroom.io/radicle/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
 - **[radicle.community](https://radicle.community/):** Community forum for discussion about governance proposals and topics.
 - **[Discord](https://discord.gg/Y4BuCK577q)**: For governance announcements and informal governance discussion.
+
+> We highlight Boardroom for the information and features it offers, but voting and delegation can take place on any on-chain governance platform (e.g. Boardroom, Tally, Sybil, etc.).
 
 ## Proposal Process
 
@@ -71,7 +73,8 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
-| Week 1 | Discussion | First Monday  | Post proposal to forum for Discussion |
+| Week 1 | Discussion | First Monday  | Start of the next proposal cycle |
+| Week 2 | Discussion | Second Monday  | Deadline to post proposal to forum for Discussion |
 | Week 2 | Discussion | Second Wednesday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Monday | Submit proposal on-chain |
@@ -79,13 +82,14 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 **Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle**
 
 ### Proposal Reviews
-Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions around their active proposals that will be voted on this cycle. The calls will be recorded and archived for governance participant's reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
+Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions on their active proposals that will be voted on this cycle. The calls will be recorded and archived for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
 ## Voting
 
 Voting requires Radicle (RAD) tokens, which you can [obtain here](https://docs.radicle.community/governance/obtain-rad). One RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
 - **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
+
 - **Submissions:** *On-chain* voting for RGPs take place on [gov.radicle.network](https://gov.radicle.network/#/delegates/radicle).
 
 You can keep track of all open proposals and vote directly on the [Radworks' Boardroom profile](https://boardroom.io/radicle/overview) 🌱 
@@ -114,7 +118,7 @@ On-chain voting is enabled by delegating voting rights to the address (or addres
 
 To participate in off-chain and on-chain voting, you have to first delegate the voting weight of your RAD. This can be done via various governance management platforms (e.g. [Boardroom](https://boardroom.io/radicle/proposals) or [Tally](https://www.tally.xyz/gov/eip155:1:0x690e775361AD66D1c4A25d89da9fCd639F5198eD)). After connecting your wallet to one of these platforms, you can choose to delegate the voting weight held in that wallet to either yourself or another address. Once delegation is completed, the voting weight of the RAD can be used to vote.
 
-> ℹ️ Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
+> Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
 
 > In order to utilize delegated voting power in a vote, delegation needs to take place *before* the vote goes live. 
 

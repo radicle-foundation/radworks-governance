@@ -3,7 +3,7 @@
 > ℹ️ **Executable Proposals** detail on-chain actions such as treasury distributions, updates to contract parameters, and upgrades to the governance system. This proposal type needs to pass both an off-chain Snapshot poll and an on-chain governance submission to succeed. Use this template as a guide to draft an Executable Proposal. 
 >
 > **Examples of common Executeable Proposals:**
-> - Creation of new Orgs (e.g. Grants, Drips, Radicle, Governance)
+> - Creation of new Orgs (e.g. Grants, Drips, Radicle, Foundation)
 > - Funding/defunding of an Org
 > - Additional/emergency budget request from an Org
 > - Treasury management & diversification (e.g. token swaps, pools, deploy capital on tools/platforms)
