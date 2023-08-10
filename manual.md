@@ -49,7 +49,7 @@ RAD Governance Proposals (RGPs) must be formally labeled with the phase of the p
 
 A RGP must first complete **an off-chain review process** before it can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the Radworks by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
 
-A Snapshot poll for a Formal Review can be posted by anyone who has an amount of $RAD greater than or equal to **1K $RAD delegated** to their address. This is to prevent spam proposals. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll must have three voting options: `Yes` `No` and `Abstain`.
+In order to post a Snapshot poll for a Formal Review, you need to be added as an "author" in our Snapshot space. This is to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll must have three voting options: `Yes` `No` and `Abstain`.
 
 
 
