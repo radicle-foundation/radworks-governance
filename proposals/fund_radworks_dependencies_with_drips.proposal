@@ -1,0 +1,76 @@
+[Executeable][RGP - 16] - Fund Radworks Dependencies with Drips
+
+# Proposal Header
+
+|  | Input
+| --- | --- |
+| **Author(s):** | lftherios |
+| **Type:** | `executeable` |
+| **Created:** | 2023-07-14 |
+| **Status:** | active |
+| **Discussion:** | https://community.radworks.org/t/3357 |
+| **Formal Review:** | https://community.radworks.org/t/3367 |
+| **Submission:** | https://community.radworks.org/t/3379 |
+
+
+## Purpose
+
+The purpose of this proposal is to allocate funds through the Drips toolkit, to support the critical software dependencies of our DAO. By providing sustainable financial support to these essential projects over the course of one year, we aim to foster their growth, ensure their continued maintenance, and fortify the overall resilience and success of our DAO ecosystem.
+
+## Overview & Background
+
+I propose to allocate a total of $1 million in RAD and USDC, split between the two tokens, to fund our critical dependencies. This funding will be distributed over a period of one year, allowing for consistent and reliable support to the projects that are crucial to our operations.
+
+The Radicle, Drips and Grants sub-DAOs have created their own Drip Lists with their selected dependencies and the percentage allocation, and the proposal is for the DAO to fund them.
+
+With regards to tokens, I believe that using RAD and USDC in equal amounts is the right approach. USDC provides a reliable and stable income for the recipients, while RAD gives recipients the ability to participate in the decision making of radworks and shape its future.
+
+Considering the estimated number of 30-50 projects as recipients (an estimate I got by talking to different org leads), the proposed $1 million funding has the potential to make a significant impact. By distributing resources through Drips, we streamline the funding process, eliminating unnecessary complexity and ensuring that financial support seamlessly reaches its intended recipients.
+
+
+## Implementation
+
+
+1. Each sub-DAO (Drips, Radicle and Grants) has created one Drip List each with their critical dependencies (see below all recipients for each list)
+2. As part of the proposal code, radworks will create a Drip List that contains these three Drip Lists with the following configuration:
+        Drips Dependencies 2 (45%)
+        Radicle Dependencies 3 (45%)
+        Grants Org Dependencies (10%)*
+3. radworks deposits funds to the Drips protocol and starts streaming $1m RAD and USDC over 1 year
+
+
+## Reasoning & Analysis
+
+The rationale for proposing the above orgs and weights is based on the fact that they are the ones that are software focused and as a result have critical software dependencies. The above allocation has been coordinated with the respected org leads (@cloudhead & @bordumb).
+
+Another that it’s important to note is that each sub-
+will have the ability to change their list over the course of a year, as their dependencies evolve. For transparency reasons, we require every org that changes their Drip List recipients to provide an update on the forum about what change is being made and why, by posting it as a reply to the final proposal post.
+
+We also strictly outline that dependancies on Drip Lists should be external recipients (outside of Radworks ecosystem) to avoid conflict of interest. No library developed and maintained by a sub-DAO contributor should be included or considered.
+
+
+## Reporting & Success Criteria
+
+The objectives of this proposal are as follows:
+
+1. Ecosystem Resilience: Strengthening our critical dependencies is vital to the overall resilience of our DAO ecosystem. By ensuring the continuous support and maintenance of these projects, we safeguard the stability and reliability of our infrastructure. This, in turn, enhances our ability to fulfill our mission and serve our community effectively.
+
+2. Collaboration and Interdependence: Through this funding initiative, we emphasize the spirit of collaboration and interdependence within our ecosystem. By supporting our critical dependencies, we acknowledge the significant contributions they make to our success. This fosters a mutually beneficial relationship where the success of our DAO is intricately tied to the achievements of our dependencies. In addition, we create an opportunity to strengthen our relationship with them and onboard them to our ecosystem.
+
+3. Long-Term Sustainability: The allocation of funds over a one-year period demonstrates our commitment to the long-term sustainability of our critical dependencies. By providing consistent financial support, we create an environment where these projects can thrive, attracting additional contributors and establishing a foundation for their continued development and maintenance.
+
+4. Drips Ecosystem Growth: By adopting Drips as the mechanism for this proposal, we have the opportunity to showcase its strengths and attract new users.
+
+
+## Fund Management
+
+- 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 is the USDC contract.
+- 0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3 is the RAD contract.
+- 0x8da8f82d2bbdd896822de723f55d6edf416130ba is the Radworks Treasury.
+- 0xd0Dd053392db676D57317CD4fe96Fc2cCf42D0b4 is the Drips contract (main contract of the Drips protocol).
+- https://www.drips.network/app/drip-lists/50330452048867519181028275890986093327647919805766323166158196453514 is the Drip List with the Radworks allocation. It's controlled by this NFT that the Radworks Treasury holds https://etherscan.io/tx/0xb2a0c3c99e812ecb545689ba7f83405c7960c79641785765cd2c6596ae5c44ec
+
+
+## Timeline & Budget
+
+Transfer 500000 USDC and 373134 RAD from the Radworks Treasury and deposit them to the Drips Protocol, then stream these funds to the Drip List over one year.
