@@ -96,7 +96,7 @@ Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.o
 
 Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is **approved** if it satisfies the following minimum vote thresholds:
 
-- **Quorum:** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as **a % of the total $RAD supply.** The required quorum to pass a proposal is **4% (4M $RAD) of total supply (100M $RAD)**
+- **Quorum:** The minimum number of RAD votes required to be cast in support of a proposal in order for a quorum to be reached and for a vote to succeed. Quorum is currently measured as **a % of the total $RAD supply.** The required quorum to pass a proposal is **4% (4M $RAD) of total supply (100M $RAD)**
     
   *Formal Reviews* and *Submissions* are required to meet quorum requirements.
     
