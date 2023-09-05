@@ -31,7 +31,7 @@ See _Proposal Process_ for more info.
 
 The primary tools for Radworks governance are:
 
-- **[Snapshot](https://snapshot.org/#/gov.radicle.eth)**: Off-chain voting platform for *Formal Reviews*
+- **[Snapshot](https://snapshot.org/#/gov.radworks.eth)**: Off-chain voting platform for *Formal Reviews*
 - **[Boardroom](https://boardroom.io/radworks/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
 - **[Discourse](https://community.radworks.org/):** Community forum for discussion about governance proposals and topics.
 - **[Discord](https://discord.gg/radworks)**: For governance announcements and informal governance discussion.
@@ -88,7 +88,7 @@ Proposal Reviews take place on the second Wednesday of each month. These calls a
 
 Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.org/community/obtaining-rad). One $RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
-- **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
+- **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radworks.eth).
 
 - **Submissions:** *On-chain* voting for RGPs take place on [Boardroom](https://boardroom.io/radworks/proposals) or [Tally](https://www.tally.xyz/gov/radworks)
 
