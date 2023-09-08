@@ -55,7 +55,7 @@ During _Formal Review_, each proposal is required to publish a Snapshot poll to 
 To initiate a Snapshot poll for a Formal Review, you must be added as an 'author' in our Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll must have three voting options: `Yes` `No` and `Abstain`.
 
 **Submission**
-Submitting a proposal on-chain is the final step in the governance process. The proposal should incorporate feedback from the _Discussion_ and _Formal Review_ phases and should be accompanied by executable on-chain code. A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). Please add any executable proposal code to the [proposal code archive](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals). 
+Submitting a proposal on-chain is the final step in the governance process. The proposal should incorporate feedback from the _Discussion_ and _Formal Review_ phases and must be accompanied by executable on-chain code. An RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). Please add any executable proposal code to the [proposal code archive](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals). 
 
 ### Proposal Types
 
