@@ -63,7 +63,7 @@ The number (#) should represent the number of proposals the Org has submitted to
 ## Retrospective
 >👉 What is the evaluation of the Org's progress throughout the previous year?
 
-> ❗️ Creating a seperate post for an Org's retrospective is recommended. The following questions can be used as guidance:
+> ❗️ Creating a seperate post for your retrospective is recommended. The following questions can be used for guidance:
 > * **Objectives**
 >   * What did we accomplish this year that aligns with the objectives and goals set at the beginning of the year?
 >   * What were our most significant achievements?
