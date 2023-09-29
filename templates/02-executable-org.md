@@ -61,7 +61,7 @@ The number (#) should represent the number of proposals the Org has submitted to
 > ❗️ If there is an MOU in place with Radworks, link it here. 
 
 ## Retrospective
->👉 What is the evaluation of the Org's previous year progress? 
+>👉 What is the evaluation of the Org's progress throughout the previous year?
 
 > ❗️ Creating a seperate post for an Org's retrospective is recommended. The following questions can be used as guidance:
 > * **Objectives**
