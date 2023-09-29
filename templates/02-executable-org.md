@@ -83,5 +83,7 @@ The number (#) should represent the number of proposals the Org has submitted to
 ## Timeline & Budget
 >👉 State a clear budget needed to support this Org, as well as a timeline for use of funds. Please follow & include the supplemental budget template provided by the Ops Committee. Include any planned hires in this budget summary.
 
+>❗️If applicable, please include a report and brief retrospective on spending throughout the previous year.
+
 ## Fund Management
 >👉 Outline fund management structure and protocol. How will Radworks funds be secured? How will contributors be paid out? At what cadence? How will Radworks funds be recovered in case of emergency?
