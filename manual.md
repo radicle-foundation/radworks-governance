@@ -31,7 +31,7 @@ See _Proposal Process_ for more info.
 
 The primary tools for Radworks governance are:
 
-- **[Snapshot](https://snapshot.org/#/gov.radicle.eth)**: Off-chain voting platform for *Formal Reviews*
+- **[Snapshot](https://snapshot.org/#/gov.radworks.eth)**: Off-chain voting platform for *Formal Reviews*
 - **[Boardroom](https://boardroom.io/radworks/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
 - **[Discourse](https://community.radworks.org/):** Community forum for discussion about governance proposals and topics.
 - **[Discord](https://discord.gg/radworks)**: For governance announcements and informal governance discussion.
@@ -47,13 +47,17 @@ The primary tools for Radworks governance are:
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
-A RGP must first complete **an off-chain review process** before it can be submitted on-chain. This process includes the *Discussion* and *Formal Review* phases of our governance process. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. These steps help provide on-chain voters with more context on community sentiment and proposal development which ideally leads to more informed and less contentious decisions, and it protects the Radworks by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
+**Discussion & Formal Review**
 
-A Snapshot poll for a Formal Review can be posted by anyone who has an amount of $RAD greater than or equal to **1K $RAD delegated** to their address. This is to prevent spam proposals. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll must have three voting options: `Yes` `No` and `Abstain`.
+A RGP must first complete **an off-chain review process** before it can be submitted on-chain. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. This process includes a *Discussion* and a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that on-chain vote has already been vetted and reviewed in a transparent manner.
 
+During _Formal Review_, each proposal is required to publish a Snapshot poll to gauge consensus on whether it should proceed to an on-chain vote. This is the last chance for the community to propose changes and give feedback on the proposal before it moves into an on-chain vote.
 
+To initiate a Snapshot poll for a Formal Review, you must be added as an 'author' in our Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll must have three voting options: `Yes` `No` and `Abstain`.
 
-A RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). Please add any executable proposal code to the [proposal code archive](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals). 
+**Submission**
+
+Submitting a proposal on-chain is the final step in the governance process. The proposal should incorporate feedback from the _Discussion_ and _Formal Review_ phases and must be accompanied by executable on-chain code. An RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). Please add any executable proposal code to the [proposal code archive](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals). 
 
 ### Proposal Types
 
@@ -74,12 +78,12 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
 | Week 1 | Discussion | First Monday  | Start of the next proposal cycle |
-| Week 2 | Discussion | Second Monday  | Deadline to post proposal to forum for Discussion |
+| Week 2 | Discussion | Second Monday  | Deadline to post proposal to forum under [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) |
 | Week 2 | Discussion | Second Wednesday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Monday | Submit proposal on-chain |
 
-**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle**
+**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but require at least 7 days on the forum to be considered for that month’s voting cycle. If proposal are posted after the second Monday deadline of a proposal cycle, they will be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
 
 ### Proposal Reviews
 Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions on their active proposals that will be voted on this cycle. The calls will be recorded and archived for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
@@ -88,7 +92,7 @@ Proposal Reviews take place on the second Wednesday of each month. These calls a
 
 Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.org/community/obtaining-rad). One $RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
-- **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radicle.eth).
+- **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radworks.eth).
 
 - **Submissions:** *On-chain* voting for RGPs take place on [Boardroom](https://boardroom.io/radworks/proposals) or [Tally](https://www.tally.xyz/gov/radworks)
 
@@ -96,7 +100,7 @@ Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.o
 
 Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is **approved** if it satisfies the following minimum vote thresholds:
 
-- **Quorum:** The minimum number of total RAD votes required to be cast in connection with a proposal. Quorum is currently measured as **a % of the total $RAD supply.** The required quorum to pass a proposal is **4% (4M $RAD) of total supply (100M $RAD)**
+- **Quorum:** The minimum number of RAD votes required to be cast in support of a proposal in order for a quorum to be reached and for a vote to succeed. Quorum is currently measured as **a % of the total $RAD supply.** The required quorum to pass a proposal is **4% (4M $RAD) of total supply (100M $RAD)**
     
   *Formal Reviews* and *Submissions* are required to meet quorum requirements.
     
