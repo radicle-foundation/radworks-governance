@@ -32,11 +32,9 @@ See _Proposal Process_ for more info.
 The primary tools for Radworks governance are:
 
 - **[Snapshot](https://snapshot.org/#/gov.radworks.eth)**: Off-chain voting platform for *Formal Reviews*
-- **[Boardroom](https://boardroom.io/radworks/proposals)**: Platform for delegation, off- and on-chain voting, and proposal creation. 
+- **[Tally](https://www.tally.xyz/gov/radworks)**: Platform for delegation, on-chain voting, and proposal creation. 
 - **[Discourse](https://community.radworks.org/):** Community forum for discussion about governance proposals and topics.
 - **[Discord](https://discord.gg/radworks)**: For governance announcements and informal governance discussion.
-
-> We highlight Boardroom for the information and features it offers, but voting and delegation can take place on any on-chain governance platform (e.g. Boardroom, Tally, Sybil, etc.).
 
 ## Proposal Process
 
@@ -118,7 +116,7 @@ On-chain voting is enabled by delegating voting rights to the address (or addres
 - Another user's wallet, if they would like the other user to vote on their behalf.
 - No wallet, if they don't want to vote.
 
-To participate in off-chain and on-chain voting, you have to first delegate the voting weight of your RAD. This can be done via various governance management platforms (e.g. [Boardroom](https://boardroom.io/radworks/proposals) or [Tally](https://www.tally.xyz/gov/radworks). After connecting your wallet to one of these platforms, you can choose to delegate the voting weight held in that wallet to either yourself or another address. Once delegation is completed, the voting weight of the RAD can be used to vote.
+To participate in off-chain and on-chain voting, you have to first delegate the voting weight of your RAD. This can be done via various governance management platforms (e.g. [Tally](https://www.tally.xyz/gov/radworks) or [Boardroom](https://boardroom.io/radworks/proposals). After connecting your wallet to one of these platforms, you can choose to delegate the voting weight held in that wallet to either yourself or another address. Once delegation is completed, the voting weight of the RAD can be used to vote.
 
 > Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
 
@@ -132,8 +130,7 @@ To participate in off-chain and on-chain voting, you have to first delegate the 
 
 The best way to get live governance updates is by following the Radworks Twitter ([@radworks_](https://twitter.com/radworks_)) or follow the [🏛️governance-updates](https://discord.gg/sUJ2vaxh) channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. 
 
-You can subscribe to our community calendar that includes reminders for Quarterly Community Calls, monthly Proposal Review calls and each week of the monthly governance cycle.
+You can subscribe to our [community calendar](https://calendar.google.com/calendar/u/0?cid=Y19kMmY5YzQxYWE1OTgxMWI5OGMzNDNjNjM5M2U5OWYwZmM4MjdmMjBlNjNjMmNlODk0YTcxNzczZmNkNTc3OGY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) that includes reminders for Quarterly Community Calls, monthly Proposal Review calls and each week of the monthly governance cycle.
 
-You can also [set up email notifications](https://app.tango.us/app/workflow/Email-Notifications-ac8d8e2eff5746f48ebd17e1f6b2b6ff) directly from the the calendar on our [Boardroom governance portal](https://boardroom.io/radworks/overview).
 
 
