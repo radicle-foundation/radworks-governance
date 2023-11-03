@@ -88,5 +88,5 @@ The number (#) should represent the number of proposals the Org has submitted to
 >❗️If applicable, please include a report and brief retrospective on spending throughout the previous year.
 
 ## Management of Org Funds
->👉 Outline fund management structure and protocol. How will Radworks funds be secured? How will contributors be paid out? At what cadence? How will Radworks funds be recovered in case of emergency?
+>👉 Outline fund management structure and protocol. How will Radworks' funds be secured? How will contributors be paid out? At what cadence? How will Radworks' funds be recovered in case of emergency?
 >❗️Please include the following text in the budget section: The [INSERT ORG] Org - also the "Grant Recipient" of Radworks, if this proposal is passed - hereby agrees to use the amount granted by Radworks in support of fulfilling the purpose outlined in the "Purpose" section above. The Grant Recipient understands and acknowledges that the awarded amount may be used only for this Purpose. Furthermore, any part of the grant that goes unused in the calendar year outlined in this proposal (INSERT PROPOSAL YEAR) will either be returned to the Radworks Treasury (by March [INSERT FOLLOWING YEAR]) or rolled over into and applied towards the Org's [INSERT FOLLOING YEAR] grant from Radworks.
