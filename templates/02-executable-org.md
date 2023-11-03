@@ -58,7 +58,7 @@ The number (#) should represent the number of proposals the Org has submitted to
 >👉 What metrics for success and accountability mechanisms are being put in place with this Org? How can Radworks evaluate its progress? 
 
 > ❗️ If there is an MOU in place with Radworks, link it here.
-> ❗️ It is mandatory for Orgs to share montly financial reporting. Please include the following text in the proposal: The [INSERT ORG] will publish monthly financial reports on Radworks-granted funds spent by the [INSERT ORG].
+> ❗️ It is mandatory for Orgs to share monthly financial reporting. Please include the following text in the proposal: The [INSERT ORG] will publish monthly financial reports on Radworks-granted funds spent by the [INSERT ORG].
 
 ## Retrospective
 >👉 What is the evaluation of the Org's progress throughout the previous year?
