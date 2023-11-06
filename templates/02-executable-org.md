@@ -8,9 +8,9 @@
 
 **Org** **Proposals** must be labeled in the following format:
 
-`[Org][RGP - #] - [NAME OF ORG - #*]`
+`[PHASE][RGP - #] - [NAME OF ORG - #*]`
 
-The number (#) should represent the number of proposals the Org has submitted to Radworks (1 = first proposal etc…). A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
+The phase will either be 'Discussion', 'Formal Review', or 'Submission'. The number (#) should represent the number of proposals the Org has submitted to Radworks (1 = first proposal etc…). A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
 
 
 >💡 We expect this template to change over time as we learn more about how Orgs operate within Radworks.
