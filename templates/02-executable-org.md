@@ -21,7 +21,7 @@ The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A gover
 | --- | --- |
 | Type: | `executeable` `org` |
 | Created: | [DATE IN YYYY-MM-DD FORMAT] |
-| # of proposals to Radworks: |  `number of proposals this Org has submitted to Radworks to date`
+| # of proposals to Radworks: |  `# of previous proposals`
 | Status: | `passed` `failed` `active` `paused` `archived` |
 | Discussion: | [Link to Discussion post] |
 | Formal Review: | [Link to Snapshot vote] |
