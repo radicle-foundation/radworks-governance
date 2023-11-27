@@ -2,18 +2,18 @@
 
 If executed, this proposal will:
 
-1. Transfer $413,115 USDC from the Radicle Treasury to a multi-sig controlled by the Foundation Org to support the 2023 work of the Operations, Marketing, and Governance Committee, as well as Foundation administration.
+1. Transfer 400,877 USDC from the Radicle Treasury to a multi-sig controlled by the Foundation Org to support the 2023 work of the Operations, Strategy, and Governance Committee, as well as Foundation administration.
 
 **How was this proposal discussed?**
 Please see discussions here:
 * Discussion: https://community.radworks.org/t/discussion-rgp-21-foundation-org-proposal-2024/3404
-* Formal Review: 
-* Snapshot Poll: 
+* Formal Review: https://community.radworks.org/t/formal-review-rgp-21-foundation-org-proposal-2024/3420
+* Snapshot Poll: https://snapshot.org/#/gov.radworks.eth/proposal/0x3b41fadaba26f961905a0d4d0854320dec014a5c96ee690a1b2ff245cd42c4fa
 
 ## Notes
 * `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
-* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radicle Treasury address.
-* `0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB` is the Foundation Council USDC Multisig 
+* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radworks Treasury address.
+* `0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB` is the Foundation Council Multisig 
 
 
 ## ACTIONS ##
