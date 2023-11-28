@@ -1,0 +1,22 @@
+# [RGP-18] Radicle Org Proposal 2024
+
+If executed, this proposal will:
+
+1. Transfer 1,370,482 USDC from the Radicle Treasury to a multi-sig controlled
+by the Radicle Org to support the 2024 development work of Radicle.
+
+**How was this proposal discussed?**
+* Discussion: https://community.radworks.org/t/discussion-rgp-18-radicle-org-proposal-2024
+* Formal Review: https://community.radworks.org/t/formal-review-rgp-18-radicle-org-proposal-2024/
+* Snapshot Poll: https://snapshot.org/#/gov.radworks.eth/proposal/0xfe6261592c5337b55ff6ef0c4bb8e6d2cd35e01505a97baea1d8807bef73ca8e
+
+## Notes
+* `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
+* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radworks Treasury address.
+* `0x4016Ce2f73100138831CAf716f30EEC3ef1dFa1D` is the Radicle Org Multisig
+
+
+## ACTIONS ##
+```
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0x4016Ce2f73100138831CAf716f30EEC3ef1dFa1D 1370482000000
+```
