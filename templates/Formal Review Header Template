@@ -1,0 +1,16 @@
+# TITLE: [Formal Review][RGP-xx] Proposal Title
+
+
+|  | Input
+| --- | --- |
+| **Author(s):** | [NAMES/HANDLES OF AUTHORS] |
+| **Type:** | `executeable` |
+| **Created:** | [DATE IN YYYY-MM-DD FORMAT] |
+| **Status:** | `passed` `failed` `active` `paused` `archived` |
+| **Discussion:** | [Link to *Discussion*] |
+
+> This is the official Formal Review draft for RGP-XX. Please formally review the proposal and vote in the Snapshot poll [INSERT LINK TO POLL] by :rotating_light: 17:00 CET - Monday, [INSERT MONTH & DAY OF 3RD MONDAY OF THE CURRENT CYCLE] :rotating_light:
+
+> TL:DR; In response to the feedback on the first draft (INSERT LINK TO DISCUSSION POST) of this proposal, we’ve incorporated the following changes in this version:
+
+INSERT REST OF PROPOSAL
