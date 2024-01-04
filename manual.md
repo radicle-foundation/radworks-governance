@@ -58,7 +58,7 @@ When preparing the proposal drafts for the _Discussion_ phase, proposal authors 
 
 **Formal Review**
 
-The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _Discussion_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus for their advancement. All Snapshot Polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
+The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _Discussion_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus for their advancement. All Snapshot polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
 
 During _Formal Review_, proposal authors are required to:
 - Publish an new version of their proposal on the forum that takes feedback from the *Discussion* phase into account. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum. 
