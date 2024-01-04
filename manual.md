@@ -65,7 +65,7 @@ During _Formal Review_, proposal authors are required to:
 - If applicable, inlcude a draft of the executable proposal code for the community to review. See this template [INSERT LINK WHEN READY] for how the code should be presented. 
 - Publish a corresponding Snapshot poll to your proposal. To initiate a Snapshot poll for Formal Review, you must be added as an 'author' in our Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal. Proposal authors should include a link to the Snapshot poll at the top of their proposal draft on the forum.
 
-If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community.
+If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
 **Submission**
 
@@ -76,7 +76,7 @@ For Submission, proposal authors are required to:
 - Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post.
 - Include any executable on-chain code in the Submission post. Please add or update the corresponding proposal code in the [proposal code archive](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals) using this template [INSERT LINK WHEN READY] if not done so already. This version of the proposal should also be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 
-If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community.
+If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
 ### Proposal Types
 
