@@ -64,7 +64,7 @@ During _Formal Review_, proposal authors are required to:
 - Publish an new version of their proposal on the forum that incorporates feedback from the *Discussion* phase. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum. The phase in the title should read [Formal Review].
 - If applicable, inlcude a draft of the executable proposal code for the community to review. 
 - Publish a corresponding Snapshot poll to your proposal. To initiate a Snapshot poll for Formal Review, you must be added as an 'author' in our Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal.
-- At the top of the Snapshot poll, please include links to both the_ Discussion_ and _Formal Review_ forum posts.
+- At the top of the Snapshot poll, please include links to both the _Discussion_ and _Formal Review_ forum posts.
 - Once live, proposal authors should include a link to the Snapshot poll as a callout at the top of their proposal draft on the forum, and clearly state when the poll closes.
 
 If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
