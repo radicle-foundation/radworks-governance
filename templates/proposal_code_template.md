@@ -24,3 +24,5 @@ Please see discussions here:
 [Insert token contract] 0 "transfer(address,uint256)" [Instert receiving address] [Insert amount]
 
 Ex: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0xaddressxxxxxxxxxxx 1000000
+
+*NOTE: Always double-check the addresses in the proposal code.*
