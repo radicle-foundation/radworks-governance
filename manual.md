@@ -1,13 +1,11 @@
 # Governance Manual [v0.2]
 
-> ❗ This document describes the current governance processes of Radworks. It is version-controlled and can only updated via off-chain approval.
-
-> 📝 For more on how this document is maintained please refer to contributing.md
+> ❗ This document describes the current governance processes of Radworks. For more on how this document is maintained please refer to [contributing.md](/contributing.md)
 
 
 # Overview
 
-Radworks is governed by on-chain and off-chain governance processes. These together make up Radworks' **governance system** 
+Radworks is governed by on-chain and off-chain governance processes. These processes together make up Radworks' **governance system**. Holders of Radworks' native governance token ($RAD) can participate in governance by creating, voting and discussing RAD Governance Proposals (RGPs).
 
 ### On-chain
 
@@ -16,27 +14,43 @@ The Radworks Treasury is controlled by a tokenized governance mechanism ([Compou
 Currently, these actions include:
 
 - Treasury distributions of assets (e.g. RAD, ETH, and USDC)
-- Upgrades to the on-chain governance system (Compound Governor)
-- Changes to parameters of Treasury-governed contracts (e.g. Drips)
+- Upgrades to the on-chain governance system (e.g. Governance, Timelock)
+- Changes to parameters of Treasury-governed protocols (e.g. Drips)
 
 To learn more about token governance and how Radworks’ on-chain governance system works, [see here](https://wiki.tally.xyz/docs/compound-governor).
 
 ### Off-chain
 
-In addition to the on-chain governance system, Radworks manages a set of off-chain processes and resources that define the rules for participating in the DAO. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote. An off-chain review process is also required for all proposals before they can be submitted on-chain.
+In addition to the on-chain governance system, Radworks manages a set of off-chain processes and resources that define the rules for participating in governance. These processes and resources are maintained off-chain, but updates to these documents still require formal community approval via Snapshot vote. An off-chain review process (see [Formal Review](#formal-review) is also required for all proposals before they can be submitted on-chain.
 
-See _Proposal Process_ for more info.
+See _[Proposal Process](#proposal-process)_ for more info.
 
-## **Governance Toolkit**
+# **Governance Toolkit**
 
 The primary tools for Radworks governance are:
 
-- **[Snapshot](https://snapshot.org/#/gov.radworks.eth)**: Off-chain voting platform for *Formal Reviews*
-- **[Tally](https://www.tally.xyz/gov/radworks)**: Platform for delegation, on-chain voting, and proposal creation. 
+- **[Snapshot](https://snapshot.org/#/gov.radworks.eth)**: Off-chain voting platform for *Formal Review*
+- **[Tally](https://www.tally.xyz/gov/radworks)**: Platform for on-chain delegation, voting, and proposal creation. 
 - **[Discourse](https://community.radworks.org/):** Community forum for discussion about governance proposals and topics.
-- **[Discord](https://discord.gg/radworks)**: For governance announcements and informal governance discussion.
+- **[Discord](https://discord.gg/radworks)**: For governance announcements and informal community discussion.
 
-## Proposal Process
+# Proposal Types
+
+All proposals are considered a RGP. There are three main categories of RGPs:
+
+| Type | Description | Process |
+| --- | --- | --- |
+| Executable | On-chain actions such as treasury distributions, updates to contract parameters, and upgrades to governance system. | Discussion → Formal Review → Submission |
+| Social | Off-chain changes that can not be enforced by governance on-chain (e.g. updates to Governance Manual) | Discussion → Formal Review  |
+| Consensus | Off-chain changes that “should” have community approval, but aren’t classified by an Executable or Social proposal | Discussion → Formal Review |
+
+Each proposal type has a designated [template](/templates/).
+
+# Proposal Process
+
+The Radworks governance process is defined by three seperate phases: Discussion, Formal Review, and Submission. Before a RGP can be submitted on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. This process includes a *Discussion* and a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that any proposal being submitted on-chain has been vetted and reviewed in a transparent manner.
+
+Each phase has specific timelines and requirements:
 
 | Discussion | Formal Review | Submission |
 | --- | --- | --- |
@@ -45,20 +59,22 @@ The primary tools for Radworks governance are:
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
-Before a RGP can be submitted on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. This process includes a *Discussion* and a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that any proposal being submitted on-chain has been vetted and reviewed in a transparent manner.
+## **Discussion**
 
-**Discussion**
+The _Discussion_ phase is used to review the first draft of new proposals. This is the primary period for the community to review and provide feedback on proposals drafts. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
 
-The ***Discussion*** phase is used to review the first draft of new proposals. This is the primary period for the community to review and provide feedback on proposals drafts. The more feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
+In order for a draft proposal to be formally considered in a [proposal cycle](#proposal-cycles), it must be posted as a _Discussion_ using one of the templates linked below. 
 
 When preparing the proposal drafts for the _Discussion_ phase, proposal authors should:
-- Use [these templates](https://github.com/radicle-foundation/radworks-governance/tree/main/templates) to create their proposals
+- Use [these templates](/templates/) to create their proposals
 - Try to include as much detail as possible in this first draft of their proposals
 - Post their proposal drafts under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _second Monday_ of each cycle (see 'Proposal Cycles' for details).  
 
-**Formal Review**
+> 💡 Drafts or ideas for proposals can be submitted to the forum at any time for informal feedback. Authors are encouraged to specify the expected or tentative proposal cycle for their submission.
 
-The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _Discussion_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus for their advancement. All Snapshot polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
+## **Formal Review**
+
+The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _Discussion_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus. All Snapshot polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
 
 During _Formal Review_, proposal authors are required to:
 - Publish an new version of their proposal on the forum that incorporates feedback from the *Discussion* phase. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum. The phase in the title should read [Formal Review].
@@ -69,7 +85,7 @@ During _Formal Review_, proposal authors are required to:
 
 If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
-**Submission**
+## **Submission**
 
 Submitting a proposal on-chain is the final step in the governance process. An RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). If a proposal author does not meet this requirement, they should reach out to the Governance Committee as soon as possible. 
 
@@ -80,19 +96,7 @@ For Submission, proposal authors are required to:
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
-### Proposal Types
-
-All proposals are considered a RGP. There are three main categories of RGPs:
-
-| Type | Description | Process |
-| --- | --- | --- |
-| Executable | On-chain actions such as treasury distributions, updates to contract parameters, and upgrades to governance system. | Discussion → Formal Review → Submission |
-| Social | Changes that can not be enforced by the DAO on-chain (e.g. updates to Governance Manual) | Discussion → Formal Review  |
-| Consensus | Ad-hoc changes that “should” have community approval, but aren’t classified by an Executable or Social proposal | Discussion → Formal Review |
-
-Each proposal type has a designated [template](https://github.com/radicle-foundation/radworks-governance/tree/main/templates).
-
-### Proposal Cycles
+# Proposal Cycles
 
 Radworks manages proposals in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
 
@@ -106,10 +110,10 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 
 **Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but require at least 7 days on the forum to be considered for that month’s voting cycle. If proposal are posted after the second Monday deadline of a proposal cycle, they will be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
 
-### Proposal Reviews
+## Proposal Reviews
 Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions on their active proposals that will be voted on this cycle. The calls will be recorded and archived for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
-## Voting
+# Voting
 
 Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.org/community/obtaining-rad). One $RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
@@ -117,7 +121,7 @@ Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.o
 
 - **Submissions:** *On-chain* voting for RGPs take place on [Boardroom](https://boardroom.io/radworks/proposals) or [Tally](https://www.tally.xyz/gov/radworks)
 
-### Voting Thresholds
+## Voting Thresholds
 
 Once proposed, participants can vote for/against the proposal on-chain with their RAD. An RGP is **approved** if it satisfies the following minimum vote thresholds:
 
@@ -131,7 +135,7 @@ Once proposed, participants can vote for/against the proposal on-chain with thei
 
 **Submission triggers a 3-day voting period. If passed, the proposal is queued for 48hrs, then it can be executed.**
 
-## Delegating
+# Delegating
 
 On-chain voting is enabled by delegating voting rights to the address (or addresses) of the token holder's choice:
 
@@ -149,7 +153,7 @@ To participate in off-chain and on-chain voting, you have to first delegate the 
 
 > In addition to the Code of Conduct, Radworks Delegates are expected to adhere to our Delegate Standards, a set of requirements for ensuring healthy & safe community governance. Please review [the standards](https://govradicle.super.site/delegate-standards) before announcing yourself as a delegate 👇
 
-### Never miss a vote! 🤳
+## Never miss a vote! 🤳
 
 The best way to get live governance updates is by following the Radworks Twitter ([@radworks_](https://twitter.com/radworks_)) or follow the [🏛️governance-updates](https://discord.gg/sUJ2vaxh) channel on Discord. These accounts act as governance “ticker” accounts and include all of the information and links needed to participate in voting. 
 
