@@ -79,11 +79,12 @@ The _Formal Review_ phase serves as the final review step in the governance proc
 During _Formal Review_, proposal authors are required to:
 - Publish a new version of their proposal on the forum that incorporates feedback from the *Discussion* phase. Please use [this template](/templates/05-Formal-Review-forum-post-header) as a guide. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 - If applicable, include a draft of the executable proposal code. Use [this template](/templates/07-proposal-code-template.md) to draft the proposal code. 
-- Publish a corresponding Snapshot poll to your proposal on the [Radworks Snapshot page]([url](https://snapshot.org/#/gov.radworks.eth)). To publish a Snapshot poll for Formal Review, you must be added as an 'author' in the Radworks Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal.
-- Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/08-snapshot-poll-template)) to prepare the Snapshot poll. 
-- Once live, proposal authors should include a link to the Snapshot poll as a callout at the top of their proposal drafts on the forum. Please clearly state the day and time the poll closes (e.g. Monday, [MM/DD] at 5pm CET / 11am ET).
+- Publish a corresponding Snapshot poll on the [Radworks Snapshot page]([url](https://snapshot.org/#/gov.radworks.eth)). To publish a Snapshot poll for Formal Review, you must be added as an 'author' in the Radworks Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal.
+- Please use [this template](/templates/08-snapshot-poll-template) to prepare the Snapshot poll. 
 
-If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
+A Governance Facilitator will link the Snapshot poll to your Formal Review post once ready. 
+
+> 💡 If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
 ## **Submission**
 
