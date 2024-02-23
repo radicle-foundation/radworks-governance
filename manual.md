@@ -52,31 +52,31 @@ Before a RGP can be submitted on-chain, it must first complete **an off-chain r
 The ***Discussion*** phase is used to review the first draft of new proposals. This is the primary period for the community to review and provide feedback on proposals drafts. The more feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
 
 When preparing the proposal drafts for the _Discussion_ phase, proposal authors should:
-- Use [these templates](https://github.com/radicle-foundation/radworks-governance/tree/main/templates) to create their proposals
+- Use [these templates](https://github.com/radicle-foundation/radworks-governance/tree/main/templates) to create their proposals. Please see the 'Proposal Types' section below to determine which template to use. 
 - Try to include as much detail as possible in this first draft of their proposals
-- Post their proposal drafts under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _second Monday_ of each cycle (see 'Proposal Cycles' for details).  
+- Post their proposal under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _second Monday_ of each cycle (see 'Proposal Cycles' for details).  
 
 **Formal Review**
 
 The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _Discussion_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus for their advancement. All Snapshot polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
 
 During _Formal Review_, proposal authors are required to:
-- Publish an new version of their proposal on the forum that incorporates feedback from the *Discussion* phase. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum. The phase in the title should read [Formal Review].
-- If applicable, inlcude a draft of the executable proposal code for the community to review. 
-- Publish a corresponding Snapshot poll to your proposal. To initiate a Snapshot poll for Formal Review, you must be added as an 'author' in our Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal.
-- At the top of the Snapshot poll, please include links to both the _Discussion_ and _Formal Review_ forum posts.
-- Once live, proposal authors should include a link to the Snapshot poll as a callout at the top of their proposal draft on the forum, and clearly state when the poll closes.
+- Publish an new version of their proposal on the forum that incorporates feedback from the *Discussion* phase. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/05-Formal-Review-forum-post-header)) as a guide. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum. The phase in the title should read [Formal Review].
+- If applicable, submit a draft of the executable proposal code for the community to review in the [proposal code folder]([url](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals)). Use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/07-proposal-code-template.md)) to draft the proposal code. 
+- Publish a corresponding Snapshot poll to your proposal on the [Radworks Snapshot page]([url](https://snapshot.org/#/gov.radworks.eth)). To publish a Snapshot poll for Formal Review, you must be added as an 'author' in the Radworks Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal.
+- Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/08-snapshot-poll-template)) to prepare the Snapshot poll. 
+- Once live, proposal authors should include a link to the Snapshot poll as a callout at the top of their proposal drafts on the forum. Please clearly state the day and time the poll closes (e.g. Monday, [MM/DD] at 5pm CET / 11am ET).
 
 If a proposal does not pass _Formal Review_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
 **Submission**
 
-Submitting a proposal on-chain is the final step in the governance process. An RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e ≥ 1M $RAD). If a proposal author does not meet this requirement, they should reach out to the Governance Committee as soon as possible. 
+Submitting a proposal on-chain is the final step in the governance process. An RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e. ≥ 1M $RAD). If a proposal author does not meet this requirement, they should reach out to the Governance Committee as soon as possible. 
 
 For Submission, proposal authors are required to: 
 - Post an updated version of their proposal on the forum that incorporates feedback from the _Discussion_ and _Formal Review_ phases.
-- Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post.
-- Include any executable on-chain code in the Submission post. Please add or update the corresponding proposal code in the [proposal code archive](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals) using this template [INSERT LINK WHEN READY] if not done so already. This version of the proposal should also be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
+- Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
+- Include any executable on-chain code in the Submission post. Please add or update the corresponding proposal code in the [proposal code folder](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals) using [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/07-proposal-code-template.md)) if not done so already. This version of the proposal should also be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
