@@ -14,7 +14,7 @@ The Radworks Treasury is controlled by a tokenized governance mechanism ([Compou
 Currently, these actions include:
 
 - Treasury distributions of assets (e.g. RAD, ETH, and USDC)
-- Upgrades to the on-chain governance system (e.g. Governance, Timelock)
+- Upgrades to the on-chain governance system (e.g. Quorum, Timelock)
 - Changes to parameters of Treasury-governed protocols (e.g. Drips)
 
 To learn more about token governance and how Radworks’ on-chain governance system works, [see here](https://wiki.tally.xyz/docs/compound-governor).
