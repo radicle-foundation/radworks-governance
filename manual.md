@@ -5,7 +5,7 @@
 
 # Overview
 
-Radworks is governed by on-chain and off-chain governance processes. These processes together make up Radworks' **governance system**. Holders of Radworks' native governance token ($RAD) can participate in governance by creating, voting and discussing RAD Governance Proposals (RGPs).
+Radworks is governed by on-chain and off-chain governance processes. These processes together make up Radworks' **governance system**. Holders of Radworks' native governance token ($RAD) can participate in governance by creating, discussing and voting on RAD Governance Proposals (RGPs).
 
 ### On-chain
 
