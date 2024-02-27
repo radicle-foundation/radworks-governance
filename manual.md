@@ -135,7 +135,7 @@ Once proposed, participants can vote for/against the proposal on-chain with thei
 
 ## Delegation
 
-To participate in off-chain and on-chain voting, you have to first delegate the voting weight of your RAD. This can be done via various governance management platforms (e.g. [Tally](https://www.tally.xyz/gov/radworks) or [Boardroom](https://boardroom.io/radworks/proposals). After connecting your wallet to one of these platforms, you can choose to delegate the voting weight held in that wallet to the address (or addresses) of the token holder's choice:
+To participate in off-chain and on-chain voting, you must first delegate the voting weight of your $RAD. This can be done via various governance management platforms (e.g. [Tally](https://www.tally.xyz/gov/radworks) or [Boardroom](https://boardroom.io/radworks/proposals). After connecting your wallet to one of these platforms, you can choose to delegate the voting weight held in that wallet to the address (or addresses) of the token holder's choice:
 
 - The owner’s own wallet, if they would like to vote on their own.
 - Another user's wallet, if they would like the other user to vote on their behalf.
