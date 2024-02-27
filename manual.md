@@ -140,7 +140,7 @@ To participate in off-chain and on-chain voting, you must first delegate the vot
 - The owner’s own wallet, if they would like to vote on their own.
 - Another user's wallet, if they would like the other user to vote on their behalf.
 
-Once delegation is completed, the voting weight of the RAD can be used to vote. See this [FAQ](https://docs.radworks.org/community/faq) for further delegation and voting trickss & tips. 
+Once delegation is completed, the voting weight of the RAD can be used to vote. See this [FAQ](https://docs.radworks.org/community/faq) for further information about delegation and voting.
 
 > Any delegation made on-chain will be mirrored to Snapshot for off-chain votes - i.e. any $RAD that is delegated to your wallet on-chain will be able to be able to be used to vote in off-chain Snapshot polls.
 
