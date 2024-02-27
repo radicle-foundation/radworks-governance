@@ -109,7 +109,7 @@ Proposals are reviewed in **monthly cycles** to sync voting periods and establis
 **Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but require at least 7 days on the forum to be considered for that month’s voting cycle. If proposal are posted after the second Monday deadline of a proposal cycle, they will be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
 
 ### Proposal Review Calls
-Proposal Review are monthly calls take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss their active proposals and answer questions from the community. The calls will be recorded and [archived](https://www.youtube.com/playlist?list=PLUUjDC9sOrpktWjO7jNFwsisK0vi5d_Tx) for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
+Proposal Reviews are monthly calls take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss their active proposals and answer questions from the community. The calls will be recorded and [archived](https://www.youtube.com/playlist?list=PLUUjDC9sOrpktWjO7jNFwsisK0vi5d_Tx) for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
 ## Voting
 
