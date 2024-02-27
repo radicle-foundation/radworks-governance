@@ -96,7 +96,7 @@ Each proposal type has a designated [template](https://github.com/radicle-founda
 
 ### Proposal Cycles
 
-Radworks reviews proposals in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
+Proposals are reviewed in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
