@@ -78,7 +78,7 @@ For Submission, proposal authors are required to:
 - Create an on-chain proposal using Tally or Boardroom.
 - The forum post and on-chain proposal should be submitted no later than the fourth Tuesday of the proposal cycle (see [Proposaal Cycles](###ProposalTypes). 
 - Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
-- Please double check that the executable on-chain code in correct! 
+- Please double check that the executable on-chain code is correct! 
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
