@@ -66,3 +66,7 @@ The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A gover
 ## Timeline & Budget
 
 > 👉 Please state a clear budget needed to execute the proposal, as well as a timeline for use of funds. 
+
+## Proposal Code
+
+> 👉 See this [template](/templates/07-proposal-code-template.md).
