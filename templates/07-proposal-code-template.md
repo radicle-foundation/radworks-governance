@@ -1,17 +1,8 @@
-File title should be: "[RGP-XX] Proposal Title"
-________________________________________________________
-
 # [RGP-XX] Proposal Title
 
 If executed, this proposal will:
 
 1. 1-2 sentences describing the on-chain action that would be triggered by the passing of this proposal.
-
-**How was this proposal discussed?**
-Please see discussions here:
-* Discussion: link to Discussion forum post
-* Formal Review: link to Formal Review forum post 
-* Snapshot Poll: link to Snapshot poll 
 
 ## Notes
 * Add any relavant token contracts, the Radworks Treasury address if requesting funds from the treasury, and the receiving address as well as who it belongs to
