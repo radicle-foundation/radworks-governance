@@ -103,9 +103,8 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
-| Week 1 | Discussion | First Monday  | Start of the next proposal cycle |
-| Week 2 | Discussion | Second Monday  | Deadline to post proposal to forum under [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) |
-| Week 2 | Discussion | Second Wednesday | Join monthly Proposal Review call to present and discuss proposal with community |
+| Week 1 | Request for Feedback | First Monday | Start of the next proposal cycle, Deadline to post proposal to forum under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) |
+| Week 2 | Request for Feedback | Second Monday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Tuesday | Submit proposal on-chain |
 
