@@ -41,8 +41,7 @@ All proposals are considered a RGP. There are three main categories of RGPs:
 | Type | Description | Process |
 | --- | --- | --- |
 | Executable | On-chain actions such as treasury distributions, updates to contract parameters, and upgrades to governance system. | Discussion → Formal Review → Submission |
-| Social | Off-chain changes that can not be enforced by governance on-chain (e.g. updates to Governance Manual) | Discussion → Formal Review  |
-| Consensus | Off-chain changes that “should” have community approval, but aren’t classified by an Executable or Social proposal | Discussion → Formal Review |
+| Social | Off-chain changes that can not be enforced by governance on-chain but should have community approval (e.g. updates to the governance process) | Discussion → Formal Review  |
 
 Each proposal type has a designated [template](/templates/).
 
@@ -52,20 +51,20 @@ The Radworks governance process is defined by three seperate phases: Discussion,
 
 Each phase has specific timelines and requirements:
 
-| Discussion | Formal Review | Submission |
+| Request for Feedback (RfF) | Formal Review | Submission |
 | --- | --- | --- |
 | Forum post | Snapshot poll | On-chain vote |
 | ≥ 7 days | 7 day | 3 days vote, 2 day timelock  |
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
-## **Discussion**
+## **Request for Feedback (RfF)**
 
-The _Discussion_ phase is used to review the first draft of new proposals. This is the primary period for the community to review and provide feedback on proposals drafts. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
+The _Request for Feedback_ phase is used to review the first draft of new proposals. This is the primary period for the community to review and provide feedback on proposals drafts. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
 
 In order for a draft proposal to be formally considered in a [proposal cycle](#proposal-cycles), it must be posted as a _Discussion_ using one of the templates linked below. 
 
-When preparing the proposal drafts for the _Discussion_ phase, proposal authors should:
+When preparing the proposal drafts for the _Request for Feedback_ phase, proposal authors should:
 - Use [these templates](https://github.com/radicle-foundation/radworks-governance/tree/main/templates) to create their proposals. Please see the 'Proposal Types' section below to determine which template to use. 
 - Try to include as much detail as possible in this first draft of their proposals
 - Post their proposal under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _second Monday_ of each cycle (see 'Proposal Cycles' for details).  
