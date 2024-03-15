@@ -55,7 +55,7 @@ Each phase has specific timelines and requirements:
 | Discussion | Formal Review | Submission |
 | --- | --- | --- |
 | Forum post | Snapshot poll | On-chain vote |
-| ≥ 7 days | 7 day | 3 days vote, 2 day timelock  |
+| 14 days | 7 day | 3 days vote, 2 day timelock  |
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
