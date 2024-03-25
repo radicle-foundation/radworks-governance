@@ -119,7 +119,7 @@ Proposal Reviews are monthly calls take place on the second Wednesday of each mo
 
 # Voting
 
-Voting requires $RAD tokens, which you can [obtain here](https://docs.radworks.org/community/obtaining-rad). One $RAD token is equal to one vote. Voting takes place both on- and off-chain:
+Voting requires $RAD tokens, which can be [obtained here](https://docs.radworks.org/community/obtaining-rad). One $RAD token is equal to one vote. Voting takes place both on- and off-chain:
 
 - **Formal Reviews:** *Off-chain* consensus checks done with [Snapshot polls](https://snapshot.org/#/gov.radworks.eth).
 
@@ -131,18 +131,16 @@ Once proposed, participants can vote for/against the proposal on-chain with thei
 
 - **Quorum:** The minimum number of RAD votes required to be cast in support of a proposal in order for a quorum to be reached and for a vote to succeed. Quorum is currently measured as **a % of the total $RAD supply.** The required quorum to pass a proposal is **4% (4M $RAD) of total supply (100M $RAD)**
     
-  *Formal Reviews* and *Submissions* are required to meet quorum requirements.
-    
 - **Approval Threshold:** If quorum is met, the proposal passes if a majority of the votes are “in-favor”.
 
-**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but requires at least 7 days on the forum to be considered for that month’s voting cycle*
+> *Formal Reviews* and *Submissions* are required to meet quorum requirements.
 
 **Submission triggers a 3-day voting period. If passed, the proposal is queued for 48hrs, then it can be executed.**
 
 
 # Delegating
 
-To participate in off-chain and on-chain voting, you must first delegate the voting weight of your $RAD. This can be done via various governance management platforms (e.g. [Tally](https://www.tally.xyz/gov/radworks)). After connecting your wallet to one of these platforms, you can choose to delegate the voting weight held in that wallet to the address (or addresses) of the token holder's choice:
+To participate in off-chain and on-chain voting, $RAD must be delegated to the address that will be used to vote. Delegation can be executed via various governance management platforms (e.g. [Tally](https://www.tally.xyz/gov/radworks)). After connecting a wallet to one of these platforms, the token holder can choose to delegate the voting weight held in that wallet to the address (or addresses) of their choice:
 
 - The owner’s own wallet, if they would like to vote on their own.
 - Another user's wallet, if they would like the other user to vote on their behalf.
