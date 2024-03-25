@@ -40,8 +40,8 @@ All proposals are considered a RGP. There are three main categories of RGPs:
 
 | Type | Description | Process |
 | --- | --- | --- |
-| Executable | On-chain actions such as treasury distributions, updates to contract parameters, and upgrades to governance system. | Discussion → Formal Review → Submission |
-| Social | Off-chain changes that can not be enforced by governance on-chain but should have community approval (e.g. updates to the governance process) | Discussion → Formal Review  |
+| Executable | On-chain actions such as treasury distributions, updates to contract parameters, and upgrades to governance system. | Request for Comments → Formal Review → Submission |
+| Social | Off-chain changes that can not be enforced by governance on-chain but should have community approval (e.g. updates to the governance process) | Request for Comments → Formal Review  |
 
 Each proposal type has a designated [template](/templates/).
 
