@@ -93,8 +93,8 @@ Submitting a proposal on-chain is the final step in the governance process. An R
 For Submission, proposal authors are required to: 
 - Post an updated version of their proposal on the forum that incorporates feedback from the _Discussion_ and _Formal Review_ phases. This version of the proposal should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 - Create an on-chain proposal using [Tally](https://docs.tally.xyz/knowledge-base/proposals/creating-proposals)
-- The forum post and on-chain proposal should be submitted no later than the fourth Tuesday of the proposal cycle (see [Proposaal Cycles](###ProposalTypes). 
-- Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
+- The forum post and on-chain proposal should be submitted no later than the fourth Tuesday of the proposal cycle (see [Proposaal Cycles](###ProposalTypes)). 
+- Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header) as a guide. 
 - Please double check that the executable on-chain code is correct! 
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
