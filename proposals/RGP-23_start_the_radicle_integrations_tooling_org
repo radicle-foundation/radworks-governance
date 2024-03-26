@@ -3,7 +3,6 @@ If executed, this proposal will:
 Transfer 178 494.31 USDC and 80 488.70 RAD from the Radworks Treasury to a multi-sig controlled by the Radicle Integrations & Tooling Org to support the remainder of our 2024 development work on Radicle.
 
 Notes
-Notes
 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
 0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 is the RAD contract (https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3).
 0x8da8f82d2bbdd896822de723f55d6edf416130ba is the Radworks Treasury address.
