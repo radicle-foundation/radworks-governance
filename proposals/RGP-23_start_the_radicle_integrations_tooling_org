@@ -13,4 +13,3 @@ ACTIONS
 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc 178494310000
 0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc 80488700000000000000000
 
-The proposal code above has been copied from the RGP-23 Formal Review post provided by the proposal author: https://community.radworks.org/t/formal-review-rgp-23-start-the-radicle-integrations-tooling-org-2024/3508
