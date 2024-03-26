@@ -16,7 +16,7 @@
 
 `[PHASE][RGP - #] - [PROPOSAL TITLE]`
 
-The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
+The phase will either be 'Request for Comments (RFC)', 'Formal Review', or 'Submission'. A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
 
 
 # Proposal Header
@@ -27,7 +27,7 @@ The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A gover
 | **Type:** | `executeable` |
 | **Created:** | [DATE IN YYYY-MM-DD FORMAT] |
 | **Status:** | `passed` `failed` `active` `paused` `archived` |
-| **Discussion:** | [Link to *Discussion*] |
+| **RFC Draft:** | [Link to *Request for Comments draft*] |
 | **Formal Review:** | [Link to *Formal Review*] |
 | **Submission:** | [Link to *Submission*]  |
 
