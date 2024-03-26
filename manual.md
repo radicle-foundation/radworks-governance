@@ -56,20 +56,20 @@ Each phase has specific timelines and requirements:
 | Forum post | Snapshot poll | On-chain vote |
 | ≥ 7 days | 7 day | 3 days vote, 2 day timelock  |
 
-RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
+RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [RFC/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
 ## **Request for Comments (RFC)**
 
-The _Request for Comments_ phase is used to review the first draft of new proposals. This is the primary period for the community to review and provide feedback on proposals drafts. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
+The _Request for Comments_ phase is used to actively review formal proposal drafts that are being submitted to governance within a given cylce. While drafts of proposals can be posted on the forum _at any time_, RFC is the official period for the community to review and provide feedback on proposals that will be voted on in a given cylce. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
 
-In order for a draft proposal to be formally considered in a [proposal cycle](#proposal-cycles), it must be posted as a _Discussion_ using one of the templates linked below. 
+In order for a draft proposal to be formally included in a [proposal cycle](#proposal-cycles), it must be labeled with [RFC] and formatted using the templates linked below. 
+
+> 💡 For more complex proposals, it is encouraged to post early drafts in advance of the intended proposal cycle to allow for ample discussion and debate. Authors are encouraged to specify the expected or tentative proposal cycle for their submission.
 
 When preparing the proposal drafts for the _RFC_ phase, proposal authors should:
 - Use [these templates](https://github.com/radicle-foundation/radworks-governance/tree/main/templates) to create their proposals. Please see the 'Proposal Types' section below to determine which template to use. 
-- Try to include as much detail as possible in this first draft of their proposals
-- Post their proposal under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _second Monday_ of each cycle (see 'Proposal Cycles' for details).  
-
-> 💡 Drafts or ideas for proposals can be submitted to the forum at any time for informal feedback. Authors are encouraged to specify the expected or tentative proposal cycle for their submission.
+- Include as much context and detail as possible to help the community to review what is being proposed. 
+- Post their proposal under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _first Monday_ of each cycle (see 'Proposal Cycles' for details).  
 
 ## **Formal Review**
 
@@ -90,8 +90,8 @@ A Governance Facilitator will link the Snapshot poll to your Formal Review post 
 Submitting a proposal on-chain is the final step in the governance process. An RGP can be submitted to on-chain governance by anyone who has an amount of $RAD greater than or equal to **1% of the total $RAD supply** delegated to their address (i.e. ≥ 1M $RAD). If a proposal author does not meet this requirement, they should reach out to the Governance Committee as soon as possible. 
 
 For Submission, proposal authors are required to: 
-- Post an updated version of their proposal on the forum that incorporates feedback from the _Discussion_ and _Formal Review_ phases.
-- Inlcude links to both the *Discsussion* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
+- Post an updated version of their proposal on the forum that incorporates feedback from the _Request for Comments_ and _Formal Review_ phases.
+- Inlcude links to both the *Request of Comments* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
 - Include any executable on-chain code in the Submission post. Please add or update the corresponding proposal code in the [proposal code folder](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals) using [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/07-proposal-code-template.md)) if not done so already. This version of the proposal should also be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
@@ -108,7 +108,7 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Tuesday | Submit proposal on-chain |
 
-**Proposals can be posted to the forum for Discussion at anytime throughout the monthly cycle, but require at least 7 days on the forum to be considered for that month’s voting cycle. If proposal are posted after the second Monday deadline of a proposal cycle, they will be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
+**Proposals can be posted on the forum for discussion at anytime throughout the monthly cycle, but if a proposal is posted after the first Monday deadline, they can be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
 
 ## Proposal Reviews
 Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions on their active proposals that will be voted on this cycle. The calls will be recorded and archived for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
