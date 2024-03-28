@@ -91,7 +91,7 @@ Submitting a proposal on-chain is the final step in the governance process. An R
 
 For Submission, proposal authors are required to: 
 - Post an updated version of their proposal on the forum that incorporates feedback from the _Request for Comments_ and _Formal Review_ phases.
-- Inlcude links to both the *Request of Comments* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
+- Inlcude links to both the *Request for Comments* and the *Formal Review* versions of the proposal in the final Submission post. Please use [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/06-Submission-forum-post-header)) as a guide. 
 - Include any executable on-chain code in the Submission post. Please add or update the corresponding proposal code in the [proposal code folder](https://github.com/radicle-foundation/radworks-governance/tree/main/proposals) using [this template]([url](https://github.com/radicle-foundation/radworks-governance/blob/main/templates/07-proposal-code-template.md)) if not done so already. This version of the proposal should also be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
