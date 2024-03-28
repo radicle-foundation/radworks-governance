@@ -23,7 +23,7 @@ The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A gover
 | Created: | [DATE IN YYYY-MM-DD FORMAT] |
 | # of proposals to Radworks: |  `# of previous proposals`
 | Status: | `passed` `failed` `active` `paused` `archived` |
-| Discussion: | [Link to Discussion post] |
+| Request for Comments: | [Link to RFC] |
 | Formal Review: | [Link to Snapshot vote] |
 | Submission: | [Link to Submission]  |
 
