@@ -108,7 +108,7 @@ Radworks manages proposals in **monthly cycles** to sync voting periods and esta
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Tuesday | Submit proposal on-chain |
 
-**Proposals can be posted on the forum for discussion at anytime throughout the monthly cycle, but if a proposal is posted after the first Monday deadline, they can be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
+**Proposals can be posted on the forum for discussion at anytime throughout the monthly cycle, but if a proposal is posted after the first Monday deadline, they must be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
 
 ## Proposal Reviews
 Proposal Reviews take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss and answer questions on their active proposals that will be voted on this cycle. The calls will be recorded and archived for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
