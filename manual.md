@@ -47,7 +47,7 @@ Each proposal type has a designated [template](/templates/).
 
 # Proposal Process
 
-The Radworks governance process is defined by three seperate phases: Discussion, Formal Review, and Submission. Before a RGP can be submitted on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. This process includes a *Discussion* and a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that any proposal being submitted on-chain has been vetted and reviewed in a transparent manner.
+The Radworks governance process is defined by three seperate phases: _Request for Comments (RFC)_, _Formal Review_, and _Submission_. Before a RGP can be submitted on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. This review process includes *RFC* and a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that any proposal being submitted on-chain has been vetted and reviewed in a transparent manner.
 
 Each phase has specific timelines and requirements:
 
@@ -58,25 +58,25 @@ Each phase has specific timelines and requirements:
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [RFC/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
-## **Request for Comments (RFC)**
+## **Request for Comments**
 
-The _Request for Comments_ phase is used to actively review formal proposal drafts that are being submitted to governance within a given cylce. While drafts of proposals can be posted on the forum _at any time_, RFC is the official period for the community to review and provide feedback on proposals that will be voted on in a given cylce. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
+The _Request for Comments (RFC)_ phase is used to actively review formal proposal drafts that are being submitted to governance within a given cylce. While drafts of proposals can be posted on the forum _at any time_, RFC is the official period for the community to review and provide feedback on proposals that will be voted on in a given cylce. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
 
 In order for a draft proposal to be formally included in a [proposal cycle](#proposal-cycles), it must be labeled with [RFC] and formatted using the templates linked below. 
 
-> 💡 For more complex proposals, it is encouraged to post early drafts in advance of the intended proposal cycle to allow for ample discussion and debate. Authors are encouraged to specify the expected or tentative proposal cycle for their submission.
+> 💡 For more complex proposals, it is encouraged to post early drafts in advance of the intended proposal cycle to allow for ample discussion and debate. These early drafts should be posted under [Proposal Drafts](https://community.radworks.org/c/governance/proposal-archive/46) on the forum. Authors are encouraged to specify the expected or tentative proposal cycle for their submission.
 
 When preparing the proposal drafts for the _RFC_ phase, proposal authors should:
 - Use [these templates](https://github.com/radicle-foundation/radworks-governance/tree/main/templates) to create their proposals. Please see the 'Proposal Types' section below to determine which template to use. 
 - Include as much context and detail as possible to help the community to review what is being proposed. 
-- Post their proposal under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) on the forum by the _first Monday_ of each cycle (see 'Proposal Cycles' for details).  
+- Post their proposal under [Active Proposals](https://community.radworks.org/c/governance/proposals/18) on the forum by the _first Monday_ of each cycle (see 'Proposal Cycles' for details).  
 
 ## **Formal Review**
 
-The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _Discussion_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus. All Snapshot polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
+The _Formal Review_ phase serves as the final review step in the governance process before proposals are submitted on-chain. Proposals in this phase incorporate feedback from the _RFC_ phase, and are accompanied by an off-chain Snapshot poll to gauge consensus. All Snapshot polls must begin on **5:00pm GMT+2** the **third Monday of the month** and end at **5:00pm GMT+2** on the **following Monday**. Each Snapshot poll should have three voting options: `Yes` `No` and `Abstain`. 
 
 During _Formal Review_, proposal authors are required to:
-- Publish a new version of their proposal on the forum that incorporates feedback from the *Discussion* phase. Please use [this template](/templates/05-Formal-Review-forum-post-header) as a guide. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
+- Publish a new version of their proposal on the forum that incorporates feedback from the *RFC* phase. Please use [this template](/templates/05-Formal-Review-forum-post-header) as a guide. Proposals in this stage should be posted under the [Active Proposals](https://community.radworks.org/c/governance/proposals/18) category on the forum.
 - If applicable, include a draft of the executable proposal code. Use [this template](/templates/07-proposal-code-template.md) to draft the proposal code. 
 - Publish a corresponding Snapshot poll on the [Radworks Snapshot page]([url](https://snapshot.org/#/gov.radworks.eth)). To publish a Snapshot poll for Formal Review, you must be added as an 'author' in the Radworks Snapshot space. This measure is in place to prevent spam proposals. Please reach out to Shelby (shelb_ee#9785 on Discord) with the Ethereum address of the party posting your proposal.
 - Please use [this template](/templates/08-snapshot-poll-template) to prepare the Snapshot poll. 
@@ -104,12 +104,12 @@ Proposals are reviewed in **monthly cycles** to sync voting periods and establis
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
-| Week 1 | Request for Comments | First Monday | Start of the next proposal cycle and deadline to post proposal to forum under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) |
+| Week 1 | Request for Comments | First Monday | Start of the next proposal cycle and deadline to post proposal to forum under [Active Proposals](https://community.radworks.org/c/governance/proposals/18) |
 | Week 2 | Request for Comments | Second Monday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Tuesday | Submit proposal on-chain |
 
-**Proposals can be posted on the forum for discussion at anytime throughout the monthly cycle, but if a proposal is posted after the first Monday deadline, they must be included in the next cycle. New proposals should be posted in the [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) sub-category under the _Governance_ category on the forum.**
+**Proposals can be posted on the forum for discussion at anytime throughout the monthly cycle, but if a proposal is posted after the first Monday deadline, they must be included in the next cycle. Proposal drafts & ideas should be posted in the [Proposal Drafts](https://community.radworks.org/c/governance/proposal-archive/46) category on the forum.**
 
 ### Proposal Review Calls
 Proposal Reviews are monthly calls take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss their active proposals and answer questions from the community. The calls will be recorded and [archived](https://www.youtube.com/playlist?list=PLUUjDC9sOrpktWjO7jNFwsisK0vi5d_Tx) for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
