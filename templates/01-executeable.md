@@ -27,7 +27,7 @@ The phase will either be 'Request for Comments (RFC)', 'Formal Review', or 'Subm
 | **Type:** | `executeable` |
 | **Created:** | [DATE IN YYYY-MM-DD FORMAT] |
 | **Status:** | `passed` `failed` `active` `paused` `archived` |
-| **RFC Draft:** | [Link to *Request for Comments draft*] |
+| **Request for Comments:** | [Link to *RFC*] |
 | **Formal Review:** | [Link to *Formal Review*] |
 | **Submission:** | [Link to *Submission*]  |
 
