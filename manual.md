@@ -55,7 +55,7 @@ Each phase has specific timelines and requirements:
 | Discussion | Formal Review | Submission |
 | --- | --- | --- |
 | Forum post | Snapshot poll | On-chain vote |
-| ≥ 7 days | 7 day | 3 days vote, 2 day timelock  |
+| 14 days | 7 day | 3 days vote, 2 day timelock  |
 
 RAD Governance Proposals (RGPs) must be formally labeled with the phase of the proposal, #, and title (e.g. [Discussion/Formal Review/Submission][RGP - #] - [PROPOSAL TITLE])
 
@@ -105,9 +105,8 @@ Proposals are reviewed in **monthly cycles** to sync voting periods and establis
 
 | Monthly Schedule | Stage | Weekly Schedule | Action |
 | --- | --- | --- | --- |
-| Week 1 | Discussion | First Monday  | Start of the next proposal cycle |
-| Week 2 | Discussion | Second Monday  | Deadline to post proposal to forum under [Proposal Discussions](https://community.radworks.org/c/governance/discussions/19) |
-| Week 2 | Discussion | Second Wednesday | Join monthly Proposal Review call to present and discuss proposal with community |
+| Week 1 | Request for Comments | First Monday | Start of the next proposal cycle and deadline to post proposal to forum under [Proposal Drafts](https://community.radworks.org/c/governance/discussions/19) |
+| Week 2 | Request for Comments | Second Monday | Join monthly Proposal Review call to present and discuss proposal with community |
 | Week 3 | Formal Review | Third Monday |  Open proposal for Formal Review |
 | Week 4 | Submission | Fourth Tuesday | Submit proposal on-chain |
 
