@@ -10,7 +10,7 @@
 
 `[PHASE][RGP - #] - [NAME OF ORG & YEAR]`
 
-The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
+The phase will either be 'Request for Comments (RFC)', 'Formal Review', or 'Submission'. A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
 
 
 >💡 We expect this template to change over time as we learn more about how Orgs operate within Radworks.
@@ -23,7 +23,7 @@ The phase will either be 'Discussion', 'Formal Review', or 'Submission'. A gover
 | Created: | [DATE IN YYYY-MM-DD FORMAT] |
 | # of proposals to Radworks: |  `# of previous proposals`
 | Status: | `passed` `failed` `active` `paused` `archived` |
-| Discussion: | [Link to Discussion post] |
+| Request for Comments: | [Link to RFC] |
 | Formal Review: | [Link to Snapshot vote] |
 | Submission: | [Link to Submission]  |
 
