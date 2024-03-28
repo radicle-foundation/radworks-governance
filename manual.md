@@ -47,7 +47,7 @@ Each proposal type has a designated [template](/templates/).
 
 # Proposal Process
 
-The Radworks governance process is defined by three seperate phases: _Request for Comments (RFC)_, _Formal Review_, and _Submission_. Before a RGP can be submitted on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before reaching an on-chain vote. This review process includes *RFC* and a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that any proposal being submitted on-chain has been vetted and reviewed in a transparent manner.
+The Radworks governance process is defined by three separate phases: _Request for Comments (RFC)_, _Formal Review_, and _Submission_. Before a RGP can be submitted on-chain, it must first complete **an off-chain review process**. Having a public off-chain review process allows for proposals to be reviewed, discussed, and improved by the Radworks community before initiating an on-chain vote. This review process includes publishing a *Request for Comments (RFC)* and  passing a *Formal Review*. These steps help provide on-chain voters with more context on community sentiment and proposal development which supports more informed and less contentious decisions. It also protects the Radworks community by ensuring that any proposal being submitted on-chain has been vetted and reviewed in a transparent manner.
 
 Each phase has specific timelines and requirements:
 
