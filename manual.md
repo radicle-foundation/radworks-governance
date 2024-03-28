@@ -60,7 +60,7 @@ RAD Governance Proposals (RGPs) must be formally labeled with the phase of the p
 
 ## **Request for Comments**
 
-The _Request for Comments (RFC)_ phase is used to actively review formal proposal drafts that are being submitted to governance within a given cylce. While drafts of proposals can be posted on the forum _at any time_, RFC is the official period for the community to review and provide feedback on proposals that will be voted on in a given cylce. The feedback provided during this phase allows for more detailed and refined proposals to vote on in later stages.
+The _Request for Comments (RFC)_ phase is used to actively review proposal drafts that are being submitted to be considered in a proposal cycle. While drafts of proposals can be posted on the forum _at any time_, this stage represents the official period for the community to review and provide feedback on proposals that will be voted on in a given cylce. The feedback provided during this phase allows authors to refine and improve their proposals with community feedback.
 
 In order for a draft proposal to be formally included in a [proposal cycle](#proposal-cycles), it must be labeled with [RFC] and formatted using the templates linked below. 
 
